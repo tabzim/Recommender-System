@@ -1,0 +1,33 @@
+  , “Fair, Efficient and Power Optimized Spectrum Sharing for Cognitive Radio Networks.
+  ,“CSPA: Channel Selection and Parameter Adaptation Scheme for Cognitive Radio Ad Hoc Networks.”
+  , ”Spectrum Sharing Optimization with QoS Guarantees.” 
+ “Reliable, Efficient and Power Optimized Control Channel Selection Scheme for Cognitive Radio Networks.” 
+“Joint Sensor-node Selection and Channel Allocation Scheme for Cognitive Radio Sensor Networks.” 
+“CSIT: Channel State and Idle Time Prediction for Cognitive Radio Networks.
+“Decentralized Heuristic Approach Towards Resource Allocation in Femtocell Networks.”
+“Distributed Joint Resource and Power Allocation in Self-organized Femtocell Networks”
+“A Self-organized Metaheurestic Approach towards Inter-cell Interference Management in LTE-Advanced” 
+ “Primary User Behavior Aware Spectrum Allocation Scheme for Cognitive Radio Networks”, 
+ “A Docitive Q-learning Approach Towards Joint Resource Allocation and Power Control in Self-Organized Femtocell Networks”
+ “Energyefficient downlink resource management in self-organized OFDMA based two-tier Femtocell networks”,
+“Dynamic Intra-network Spectrum Sharing for Cognitive Radio Networks”,
+“Performance Analysis of Spectrum Sensing Techniques in Cognitive Radio Networks”
+ “Device centric Spectrum Sharing for Cognitive Radio Networks”,
+“Throughput Analysis Using Smartphone in WiFi Networks”,
+“Fuzzy Logic Based Spectrum Sensing for Cognitive Radio Networks”,
+“IMS: Interference Minimization Scheme for Cognitive radio Network using Hungarian Algorithm”,
+ “An Efficient Shopping Mall with Advanced Purchasing System”,
+ “FOCS: Feedback Oriented Channel Selection Scheme for Cognitive Radios”,
+ “Optimized Control Channel Selection Scheme for Cognitive Radio Network within Smart Buildings”.
+ “GA-CSS: Genetic Algorithm Based Control channel Selection Scheme for Cognitive Radio Networks”
+“Component Carrier Selection Method for LTE-Advanced using Metaheurestic Approach”,
+“A game-theoretic approach towards energy-efficient joint resource block and power allocation in femtocell networks”
+“Genetic Algorithm Based Self-organized Resource Allocation in LTE-Advanced Networks”,
+“Docitive Learning Mechanism for Interference Management in Femtocell Networks”,
+“Optimized Node Classification and Channel Pairing Scheme for RF Energy Harvesting Based Cognitive Radio Sensor Networks”, 
+ “New Classification of Channel Selection Scheme in Cognitive radios”,
+“CSSA: Centralized Spectrum Sensing Architecture for Cognitive Radios”,
+“Channel Switching Minimization Using Prior Knowledge of Spectrum Usage of Primary User for Cognitive Radio Networks”
+ “Particle Swarm Optimization Based CC Selection for Opportunistic Radios”,
+“Channel Allocation Scheme for Video Sensors in Cognitive Radio Sensor Networks”
+“Neural Network based Spectrum Prediction in Cognitive Radio LET-Advanced”

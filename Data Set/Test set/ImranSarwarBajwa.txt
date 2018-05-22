@@ -1,0 +1,28 @@
+A Semi Supervised Approach for Catchphrase Classification in Legal Text Documents. 
+A Cached-Based Stream-Relation Join Operator for Semi-Stream Data Processing. 
+A Cache-Based Semi-Stream Join to deal with Unmatched Stream Data. 
+A Cached-based approach to enrich Stream data with master data.  
+A natural language processing approach to generate SBVR and OCL. 
+A model transformation from NL to SBVR. 
+Automated DD-path testing: A challenging task in software testing. 
+Machine Learning Techniques for Topic Spotting. 
+OCL usability: a major challenge in adopting UML. 
+Teeter-totter in testing. 
+Automatic event recognition and annotation in business requirement specifications.  
+Scope resolution of logical connectives in NL constraints.  
+Prediction of minerals in rock images using Markov logic.  
+A study on trends of mobile application usage and their distribution methods in Pakistan.  
+Quantifiers Types Resolution in NL Software Requirements. MICAI (Special Sessions)
+SOA Embedded in BPM: A High Level View of Object Oriented Paradigm. 
+SBVR vs OCL: A Comparative Analysis of Standards. CoRR abs/1304.7346 (2013)
+A Step Towards Ambiguity Less Natural Language Software Requirements Specifications. 
+NL2 Alloy: A Tool to Generate Alloy from NL Constraints. 
+Back to Origin: Transformation of Business Process Models to Business Rules. Business Process Management Workshops 
+Resolving Syntactic Ambiguities in Natural Language Specification of Constraints. 
+Semantic Analysis of English Specification of OCL. 
+Addressing Semantic Ambiguities in Natural Language Constraints. 
+Resource optimization for processing of stream data in data warehouse environment. 
+Generating OLAP queries from natural language specification. 
+On a chain of transformations for generating alloy from NL constraints.  
+Interacting with Data Warehouse by Using a Natural Language Interface. 
+A Rule Based Approach for Business Rule Generation from Business Process Models. 

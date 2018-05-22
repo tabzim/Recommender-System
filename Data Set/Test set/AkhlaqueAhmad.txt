@@ -1,0 +1,2 @@
+A Simple, Fast and Near Optimal Approximation Algorithm for Optimization of Un-Weighted Minimum Vertex Cover. FIT 2016: 176-180
+ 3D graphics compression and rendering framework

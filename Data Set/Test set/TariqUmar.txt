@@ -1,0 +1,9 @@
+Fairness in Cognitive Radio Networks: Models, measurement methods, applications, and future research directions
+Hybrid Rapid Response Routing Approach for Delay-Sensitive Data in Hospital Body Area Sensor Network
+A comprehensive survey of network coding in vehicular ad-hoc networks
+Vehicle monitoring under Vehicular Ad-Hoc Networks (VANET) parameters employing illumination invariant correlation filters for the Pakistan motorway police
+Modeling Vehicles Mobility for Connectivity Analysis in VANET
+Ambiguity Detection Methods in Context Free Grammar
+Impact of MIMO on Connectivity under Heterogeneous Traffic flow in VANET
+Stochastic Model for Improving Connectivity under Heterogeneous Traffic Flow for VANET
+Connectivity modeling in vehicular ad hoc networks

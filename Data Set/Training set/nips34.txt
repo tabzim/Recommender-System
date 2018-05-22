@@ -1,0 +1,1 @@
+ generalize recent formalism describe dynamics supervised  learning layered neural networks, regime data recycling  inevitable, case noisy teachers. theory generates reliable  predictions evolution training- generalization er-  rors, extends class mathematically solvable learning processes  large neural networks situations overfitting occur. 

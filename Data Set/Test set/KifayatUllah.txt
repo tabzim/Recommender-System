@@ -1,0 +1,35 @@
+Featured correspondence topic model for semantic search on social image collections
+Synergistic effects of dietary nano selenium and vitamin C on growth, feeding, and physiological parameters of mahseer fish (Tor putitora)
+Extracting top-K interesting subgraphs with weighted query semantics
+Accelerating community-search problem through faster graph dedensification
+Effects of enrichment on the development of behaviour in an endangered fish mahseer (Tor putitora)
+Top-k frequent induced subgraph mining on a sliding window using sampling
+Faster Mining of Frequent Subgraphs having Bridge-Nodes in Streaming Graphs through Summarization
+Scalable Compression of a Weighted Graph
+Effects of dietary selenium nanoparticles on physiological and biochemical aspects of juvenile Tor putitora
+SP 2: spanner construction for shortest path computation on streaming graph
+Top-k frequent induced subgraph mining using sampling
+A multi-user perspective for personalized email communities
+Set-based unified approach for summarization of a multi-attributed graph
+On efficiently summarizing a large dynamic graph
+DASJ: A Hadoop-based and Approximate Approach for Similarity Join Computations in Metric Spaces
+Intra graph clustering using collaborative similarity measure
+Set-based approximate approach for lossless graph summarization
+Analyzing Subgraph Isomorphism on Graphs with Diverse Structural Properties
+Health impact of dietary selenium nanoparticles on mahseer fish
+Effects of Graded Level of Dietary L-Ascorbyl-2-Polyphosphate on Growth Performance and Some Hematological Indices of Juvenile Mahseer (Tor putitora).
+Set-based approach for lossless graph summarization using Locality Sensitive Hashing
+Lossless graph summarization using dense subgraphs discovery
+Shortest Path Analysis in Social Graphs
+Set-based unified approach for attributed graph summarization
+Core analysis for efficient shortest path traversal queries in social graphs
+Shortest path analysis for efficient traversal queries in large networks
+OLAP on Structurally Significant Data in Graphs
+BPP: Large Graph Storage for Efficient Disk Based Processing
+Identification of Potential Risk factors in Pediatric Population of Federally Administered Tribal Areas (FATA) of Khyber Pakhtunkhwa, Pakistan
+Vertical transmission of hepatitis B virus: a major risk factor for chronic pediatric HBV infection: a case report
+An Efficient Algorithm for MDL Based Graph Summarization for Dense Graphs
+Bishard parallel processor: A disk-based processing engine for billion-scale graphs
+Pharmacological evaluation of antihypertensive effect of aerial parts of Thymus linearis benth.
+Personalized email community detection using collaborative similarity measure
+Trajectory based activity monitoring and healthcare provisioning

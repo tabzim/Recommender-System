@@ -1,0 +1,5 @@
+ Synchronization of nonlinear master-slave systems under input delay and slope-restricted input nonlinearity. 
+ Effects of Post-Adoption Beliefs on the Online Product Recommendation continuance: 
+Message transmission for GH-public key cryptosystem. 
+ An overview of trace based public key cryptography over finite fields. 
+ Parametric analysis of multi section slot coupled quadrature coupler.

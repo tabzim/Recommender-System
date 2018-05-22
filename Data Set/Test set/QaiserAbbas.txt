@@ -1,0 +1,5 @@
+ An Optimal Approach using SDN Application for Data Center Network. 
+ Morphologically rich Urdu grammar parsing using Earley algorithm. 
+Building Computational Resources: The URDU.KON-TB Treebank and the Urdu Parser.
+ Semi-Semantic Part of Speech Annotation and Evaluation. 
+ Building a Hierarchical Annotated Corpus of Urdu: 

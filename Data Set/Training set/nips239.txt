@@ -1,0 +1,1 @@
+  wavelet basis selection procedure presented wavelet re-  gression. basis threshold selected cross-  validation. method includes capability incorporating  prior knowledge smoothness (or shape basis functions)  basis selection procedure. results method  demonstrated widely published sampled functions. re-  sults method contrasted basis function based  methods. 

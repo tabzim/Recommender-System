@@ -1,0 +1,2 @@
+Design based routing and wavelength assignment in WDM networks using link-based multiplexing gain. Optical Switching and Networking 15: 
+Design Based Routing with Waveband and Wavelength Assignment in Wavelength Division Multiplexing Networks using Multi-Granular Optical Cross-Connects. 

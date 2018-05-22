@@ -1,0 +1,1 @@
+ paper treat input selection radial basis function  (RBF) classifier Bayesian framework. approximate  a-posteriori distribution model coefficients input  subsets samples drawn Gibbs updates reversible jump  moves. public datasets, compare classification  accuracy method conventional ARD scheme.  datasets infer a-posteriori probabilities dif-  ferent input subsets. 

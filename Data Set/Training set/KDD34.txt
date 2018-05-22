@@ -1,0 +1,2 @@
+Overcoming key weaknesses of Distance-based Neighbourhood Methods using a Data Dependent Dissimilarity
+This paper introduces the ﬁrst generic version of data dependent dissimilarity and shows that it provides a better closest match than distance measures for three existing algorithms in clustering, anomaly detection and multi-label classiﬁcation. For each algorithm, we show that by simply replacing the distance measure with the data dependent dissimilarity measure, it overcomes a key weakness of the otherwise unchanged algorithm.

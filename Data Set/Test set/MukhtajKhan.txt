@@ -1,0 +1,7 @@
+ Optimizing hadoop parameter settings with gene expression programming guided PSO. 
+Hadoop Performance Modeling for Job Estimation and Resource Provisioning. 
+ Hadoop performance modeling and job optimization for big data analytics. 
+ Parallel Detrended Fluctuation Analysis for Fast Event Detection on Massive PMU Data. 
+ A MapReduce Based Distributed LSI for Scalable Information Retrieval.
+ Big data analytics on PMU measurements. 
+ Data locality in Hadoop cluster systems. 

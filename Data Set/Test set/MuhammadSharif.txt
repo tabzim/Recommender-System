@@ -1,0 +1,40 @@
+Content based image retrieval: Survey
+A survey of password attacks and comparative analysis on methods for secure authentication
+Face Recognition using Gabor Filters.
+A survey: Face recognition techniques under partial occlusion.
+A Survey: Linear and Nonlinear PCA Based Face Recognition Techniques.
+Brain image enhancement-A survey
+Neural networks in medical imaging applications: A survey
+A survey: face recognition techniques
+Single Image Face Recognition Using Laplacian of Gaussian and Discrete Cosine Transforms.
+Illumination Normalization Preprocessing for face recognition
+Analysis of face recognition under varying facial expression: a survey.
+Content based image retrieval by shape, color and relevance feedback
+Sub-holistic hidden markov model for face recognition
+Face recognition based on facial features
+Face recognition using edge information and DCT
+Face recognition using adaptive margin fisher’s criterion and linear discriminant analysis
+Brain image Compression: A brief survey
+Enhanced watershed image processing segmentation
+Survey paper on diagnosis of breast cancer using image processing techniques
+Achieving accuracy in early stage tumor identification systems based on image segmentation and 3D structure analysis
+Framework for the Comparison of Classifiers for Medical Image Segmentation with Transform and Moment based features
+Face recognition for disguised variations using gabor feature extraction
+Morphological techniques for medical images: A review
+Enhanced SVD Based Face Recognition.
+Brain image analysis: a survey
+Image compression: A survey
+Microscopic feature extraction method
+TinyOS-New Trends, Comparative Views, and Supported Sensing Applications: A Review
+Lossless compression method for medical Image sequences using super-spatial structure prediction and Inter-frame coding
+Real time face detection using skin detection (Block Approach)
+Intelligent image retrieval techniques: a survey
+Use of Low Level Features for Content Based Image Retrieval: Survey
+Data reductionality technique for face recognition
+A hybrid method for edge continuity based on Pixel Neighbors Pattern Analysis (PNPA) for remote sensing satellite images
+Brain image reconstruction: A short survey
+A survey on medical image segmentation
+Content Based Image Retrieval Using Combined Features of Shape, Color and Relevance Feedback
+3d face recognition using horizontal and vertical marked strips
+Robust Face Recognition Technique under Varying Illumination
+Enhanced and Fast Face Recognition by Hashing Algorithm

@@ -1,0 +1,13 @@
+Leukocytes Classification and Segmentation in Microscopic Blood Smear: A Resource-Aware Healthcare Service in Smart Cities. 
+ Mobile-cloud assisted framework for selective encryption of medical images with steganography for resource-constrained devices.
+ Analysis of interaction trace maps for active authentication on smart devices. Multimedia Tools Appl. 76(3):
+ color image steganography using stego key-directed adaptive LSB substitution method. Multimedia Tools Appl. 
+ Exploiting angular profiles signature for shape-based image classification and retrieval. 
+ Computer Aided System for Leukocytes Classification and Segmentation in Blood Smear Images. 
+ A New Image Steganographic Technique using Pattern based Bits Shuffling and Magic LSB for Grayscale Images. 
+ A Secure Method for Color Image Steganography using Gray-Level Modification and Multi-level Encryption. 
+ Detection of Tuberculosis Bacteria in Sputum Slide Image Using Morphological Features. 
+ An Automated System for Offline Signature Verification and Identification Using Delaunay Triangulation. 
+ A Secure Cyclic Steganographic Technique for Color Images using Randomization.
+ An Adaptive Secret Key-directed Cryptographic Scheme for Secure Transmission in Wireless Sensor Networks.
+A Fusion of Labeled-Grid Shape Descriptors with Weighted Ranking Algorithm for Shapes Recognition. 

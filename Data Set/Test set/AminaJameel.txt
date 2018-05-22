@@ -1,0 +1,10 @@
+“Automated Detection of Glaucoma using Structural and Non Structural Features”, Submitted to Springer Plus, April 2016.
+“Wavelet and guided filter based multi-focus fusion for noisy Images”,
+ “Segmentation of Lung Nodules in CT Scan Data: A Review”,
+International Journal of Privacy and Health Information Management (IJPHIM), 
+ “All in focus fusion using guided filter”, Multidimensional Systems and Signal Processing, November 2014 (IF: 1.578).
+ “Adaptive compressive fusion for visible/IR sensors”,  Sensors Journal, 
+ “Improved guided image fusion for magnetic resonance and computed tomography imaging,” The Scientific World Journal, 
+ “Improved multi-focus fusion for dynamic scenes”,  Signal Processing Letters, Submitted (IF: 1.639).
+ “Improved Multi-Focus Image Fusion”, 18th International Conference on Information Fusion, 
+ “Entropy dependent compressive sensing based image fusion”, International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS),

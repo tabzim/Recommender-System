@@ -1,0 +1,1 @@
+ Network Policy Whiteboarding Composition present Policy Graph Abstraction (PGA) graphically expresses network policies service chain requirements, simple drawing whiteboard diagrams. users independently draw policy graphs constrain other. PGA graph clearly captures user intents invariants facilitates automatic composition overlapping policies coherent policy. 

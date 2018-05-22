@@ -1,0 +1,12 @@
+Exploring grouped coherence for clustered hierarchical cache
+Redundant Capability Analysis of input-series output-series Multi-modular DC-DC converter
+NONLINEAR TRANSIENT CHARACTERIZATION OF THIRD ORDER VOLTAGE SWITCHED CP-PLL.
+Design and Co-Simulation of Depth Estimation Using Simulink HDL Coder and Modelsim
+Achieving self-aware parallelism in stream programs
+Evaluation of solar energy resources by establishing empirical models for diffuse solar radiation on tilted surface and analysis for optimum tilt angle for a prospective location in southern region of Sindh, Pakistan
+Exploiting controlled-grained parallelism in message-driven stream programs
+Input-Current and Load Voltage Sharing in Input-Parallel Output-Series Connected Boost Half Bridge DC-DC Converter Using Stable Control Scheme
+Optimal Pipeline Performance via Transactional Slice with No Branch Prediction Overhead
+A Long-wire-connected and Multi-channel 3D Network-on-chip Design for Many-core System
+Instruction Pipeline Efficient Mechanism with maximum hit ratio
+Research on Dependable Ionizing Radiation Protection based on Model i

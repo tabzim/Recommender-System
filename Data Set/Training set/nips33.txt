@@ -1,0 +1,1 @@
+ functionals parameter (model) selection Support Vector Ma-  chines introduced based concepts span support vec-  tors rescaling feature space. shown func-  tionals, predict choice parameters model  relative quality performance parameter. 

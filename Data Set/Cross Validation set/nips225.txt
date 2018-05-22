@@ -1,0 +1,1 @@
+  developments nonlinear latent variable models based radial  basis functions discussed: first, priors constraints  allowable models considered means preserving data structure  low-dimensional representations visualisation purposes. Also,  resampling approach introduced makes effective  latent samples evaluating likelihood. 

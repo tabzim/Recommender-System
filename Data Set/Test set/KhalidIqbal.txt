@@ -1,0 +1,8 @@
+Potential Lung Nodules Identification for Characterization by Variable Multistep Threshold and Shape Indices from CT Images. Comp. Math. Methods in Medicine 2014: 
+ A central tendency-based privacy preserving model for sensitive XML association rules using Bayesian networks. 
+A novel classifier ensemble method with sparsity and diversity. 
+ Automatic Generation of Skeleton Animation from 3D Human Mesh Model. 
+ Bayesian network scores based text localization in scene images. 
+Learning Bayesian Network leveled-structure from support based XML frequent itemsets. 
+Classifier comparison for MSER-based text classification in scene images. 
+ Classifier Ensemble Using a Heuristic Learning with Sparsity and Diversity. 

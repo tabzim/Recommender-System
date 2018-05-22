@@ -1,0 +1,6 @@
+"Thermal Prediction Models for Virtualized Data center Servers by using Thermal-profiles ",
+"Thermal aware Scheduling in Green Data centers", 
+"Thermal-aware relocation of servers in green data centers", 
+ "Minimizing Thermal Stress for Data Center Servers through Thermal-Aware Relocation", 
+"Smart-middleware for Establishing Fault-tolerant and Smart Monitoring Systems in Green Data Center"",    
+"Computational Time Analysis of the Numerical Solution of 3D Electrostatics Poisson’s Equation",   

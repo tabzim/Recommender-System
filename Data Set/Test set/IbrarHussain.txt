@@ -1,0 +1,15 @@
+Understanding User Behavior of Asking Location-Based Questions on Microblogs
+Chinese-based Spearcons: Improving Pedestrian Navigation in Eyes-Free Environment
+Enhanced Privacy and Authentication: An Efficient and Secure Anonymous Communication for Location Based Service Using Asymmetric Cryptography Scheme
+A Study on Automatic Classification of Users Desktop Interactions
+Travel Recommendation Using Geo-tagged Photos in Social Media for Tourist
+A system for mining interesting tourist locations and travel sequences from public geo-tagged photos
+Right mix of speech and non-speech: hybrid auditory feedback for mobility assistance of the visually impaired
+A comparative study of sonification methods to represent distance and forward-direction in pedestrian navigation
+BlueView: A Perception Assistant System for the Visually Impaired
+A context-aware personalized travel recommendation system based on geotagged social media data mining
+Hybrid auditory feedback: A new method for mobility assistance of the visually impaired
+Mining Context-Aware Significant Travel Sequences from Geotagged Social Media.
+GoThere: travel suggestions using geotagged photos
+Switch detector: an activity spotting system for desktop
+An Investigation into the Development and Usability Evaluation of Mobile Applications for the Visually Impaired

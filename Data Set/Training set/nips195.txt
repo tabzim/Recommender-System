@@ -1,0 +1,1 @@
+  solve dynamics on-line Hebbian learning perceptrons  exactly, regime size training set scales  linearly number inputs. consider noiseless  noisy teachers. calculation extended non-  Hebbian rules, solution nice benchmark test  general advanced theories solving dynamics  learning restricted training sets. 

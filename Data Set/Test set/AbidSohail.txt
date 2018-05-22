@@ -1,0 +1,6 @@
+ Business process analysis: a process warehouse-based resource preference evaluation method. 
+ From ER model to Star model: a systematic transformation approach. 
+ Improving Performance of Routing Protocols Using MRP Framework. 
+ Improving energy efficiency in MANET's for healthcare environments. 
+ A Unified Framework for Business Process Intelligence. 
+Energy efficient routing in mobile ad-hoc networks for Healthcare Environments

@@ -1,0 +1,1 @@
+ Rule-level Data Plane Monitoring Monocle present Monocle, system systematically monitors network data plane, verifies corresponds view SDN controller builds tries enforce switches. evaluation shows Monocle capable fine-grained per-rule monitoring majority rules. addition, help controllers cope switches exhibit transient inconsistencies control plane data plane states. 

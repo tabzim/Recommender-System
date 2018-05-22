@@ -1,0 +1,36 @@
+Formal Verification and Performance Evaluation of Task Scheduling Heuristics for Makespan Optimization and Workflow Distribution in Large-scale Computing System
+comparative study and workload distribution model for re-encryption schemes in a mobile cloud computing environment
+Diet-Right: A Smart Food Recommendation System
+Big Data Analytics in Mobile and Cloud Computing Environments
+Execution Models for MDA Applications in MECC Systems
+An Investigation of Video Communication over Bandwidth Limited Public Safety Network
+Big data analytics in mobile and cloud computing environments
+Code Offloading using Support Vector Machine
+A Survey of Mobile Device Virtualization: Taxonomy and State of the Art
+High Performance Computing on Mobile Devices
+Resource Management in Cloud Computing: Taxonomy, Prospects and Challenges
+Impact of Mobility on Energy and Performance of Clustering-Based Power-Controlled Routing Protocols
+A Cloud-Manager-Based Re-Encryption Scheme for Mobile Users in Cloud Environment: a Hybrid Approach
+Context-Aware Mobile Cloud Computing and Its Challenges
+Merging of DHT-based Logical Networks in MANETs
+MobiByte: An Application Development Model for Mobile Cloud Computing
+Road Oriented Traffic Information System for Vehicular Ad hoc Networks
+Mobile Cloud Computing for Smartphones: Application Development Model and Application Piracy Control
+BSS: Block Based Sharing Scheme for Secure Data Storage Services in Mobile-Cloud Environment
+3D-RP: A DHT-based Routing Protocol for MANETs
+Pirax: Framework for Application Piracy Control in Mobile Cloud Environment
+Incremental Proxy Re-encryption Scheme for Mobile Cloud Computing Environment
+Routing Protocols for Mobile Sensor Networks: A Comparative Study
+A Survey of Mobile Cloud Computing Application Models
+A Novel Application Licensing Framework for Mobile Cloud Environment
+A Study of Incremental Cryptography for Security Schemes in Mobile Cloud Computing Environments
+Enhanced Dynamic Credential Generation Scheme for Protection of User Identity in Mobile Cloud Computing
+Impact of Mobility Models on Clustering Based Routing Protocols in Mobile WSNs
+A performance comparison of open source network simulators for wireless networks
+Clustering‐based power‐controlled routing for mobile wireless sensor networks
+Framework for Ubiquitous Social Networks
+Source Routing Proposals for Multipath Inter-domain Routing
+Routing Proposals for Multipath Interdomain Routing
+Clustering-based Power-Controlled Routing Protocol
+Energy Efficient Cluster-based Routing Protocol for Sensor Networks
+Behavior of clustering based routing protocols with respect to different mobility models in mobile WSNs

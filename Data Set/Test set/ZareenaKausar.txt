@@ -1,0 +1,7 @@
+A Baseline-Free Modal Strain Energy Method for Damage Localisation
+Intention Realization of Intermittent Angular Positions of Elbow using Myo Armband Sensor
+Kinematics Modeling and Mechanism Configuration Selection of a Mechatronic Assistive Device for Paraplegic Patients
+Inverse Kinematic Model and simulation of a Prosthetic Upper Limb
+Mobile robot path planning for circular shaped obstacles using simulated annealing
+Stability Augmentation of Two-Wheeled Robots on Pedestrian Terrain
+Lyapunov function-based non-linear control for two-wheeled mobile robots

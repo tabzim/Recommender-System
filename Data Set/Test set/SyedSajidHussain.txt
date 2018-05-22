@@ -1,0 +1,8 @@
+Job search website for illiterate users of Pakistan
+Supporting adaptation intelligibility, control, evaluation and adaptation policy evolution in a context-based adaptive collaboration environment
+Facilitating understanding of team-based adaptation policies
+Integrating context-enriched explanations and communication in an adaptive collaboration environment
+Integrating end-user support and negotiations to specify requirements for context-based adaptations in a collaboration environment
+Process support for context-based adaptations in a collaboration environment
+Local predecimation with range index communication parallelization strategy for fractal image compression on a cluster of workstations.
+A comparative study of parallelization strategies for fractal image compression on a cluster of workstations

@@ -1,0 +1,1 @@
+ describe class probabilistic models call credibility  networks. parse trees internal representations images,  credibility networks able perform segmentation recog-  nition simultaneously, removing need ad hoc segmentation  heuristics. Promising results problem segmenting hand-  written digits obtained. 

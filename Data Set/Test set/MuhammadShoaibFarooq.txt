@@ -1,0 +1,20 @@
+Extending Soft Sets towards the Optimality of Decision Based on Multiple Decisions over the Same Data
+A Formal Design for the Lexical and Syntax Analyzer of a Pedagogically Effective Subset of C++
+A survey on search results diversification techniques
+User- Acceptance Aspects and Standards of E-Commerce Websites
+Evaluation of Low Power Mobile Devices in Intelligent Transportation Systems
+A Strategy for the Promotion of Computer Programming Using Urdu Language in Pakistan
+Pakistan Sign Language: Computer Vision Analysis & Recommendations
+Variants of Teaching First Course in Database Systems
+Speak Pakistan: Challenges in Developing Pakistan Sign Language using Information Technology
+Learning Stack: Structured, Object Oriented, Generic, and Design Pattern Approach
+EXPLORING CAUSES OF REQUIREMENT CHANGE
+A Strategy for the Design of Introductory Computer Programming Course in High School
+Taxonomy and design considerations for comments in programming languages: a quality perspective
+What Should Be Taught about Arrays in CS2?
+Should warfarin and heparins be replaced by the new oral anticoagulants?
+An evaluation framework and comparative analysis of the widely used first programming languages
+Course Grade Predictor Using Association Rule Mining
+Pedagogically effective subset of C++
+What should be taught about arrays in CS2?
+A Survey on Diversification Techniques for Unambiguous but Under-Specified Queries

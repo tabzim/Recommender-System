@@ -1,0 +1,7 @@
+ Augmented reality for mass casualty disaster incident triage and co-ordination. 
+Intelligent Dashboard for augmented reality based incident command response co-ordination. 
+ Contextual geotracking service of incident markers in disaster search-and-rescue operations.
+Panacea's Glass: Mobile Cloud Framework for Communication in Mass Casualty Disaster Triage. 
+ Using system dynamics to evaluate renewable electricity development in Malaysia. 
+ design mining the web. 
+ The dog programming language. 

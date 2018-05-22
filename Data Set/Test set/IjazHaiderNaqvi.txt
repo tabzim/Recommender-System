@@ -1,0 +1,19 @@
+A WSN for Monitoring and Event Reporting in Underground Mine Environments
+PiLoT: A Precise IMU Based Localization Technique for Smart Phone Users
+EveTrack: An event localization and tracking scheme for WSNs in dynamic environments
+Distributed Event Identification for WSNs in Non-Stationary Environments
+Radar deception jamming prevention using bi-static and mono-static radars
+Detection and self-healing of cluster breakages in mines and tunnels: an empirical investigation
+Composite event detection and identification for WSNs using General Hebbian Algorithm
+SHARF: a single beacon hybrid acoustic and RF indoor localization scheme
+One-class support vector machines: analysis of outlier detection for wireless sensor networks in harsh environments
+Performance of ultra-wideband time-reversal systems under imperfect channel side information at the transmitter
+Methodologies in power systems fault detection and diagnosis
+Characteristics and classification of outlier detection techniques for wireless sensor networks in harsh environments: a survey
+Coordinated multi-point (CoMP) transmission and reception with joint transmission (JT) allows some neighbouring base stations (BSs) to transmit a user equipment (UE) in the cell edge region its downlink traffic simultaneously such that it can improve the cell edge throughput while mitigating inter-cell interference (ICI). This letter investigates the outage probability of CoMP-JT based on Alamouti...
+Robust Feedback Design for Time Reversal UWB Communication Systems Under CSIT Imperfections
+SVM based event detection and identification: exploiting temporal attribute correlations using SensGru
+Radar cross section analysis for an ogive target
+Frequency band selection and channel modeling for WNSN applications using simplenano
+UWB and MIMO Communications using Time Reversal Technique
+Joint event detection & identification: A clustering based approach for wireless sensor networks

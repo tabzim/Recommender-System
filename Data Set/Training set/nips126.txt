@@ -1,0 +1,1 @@
+ paper examines application reinforcement learning wire-  communication problem. problem requires channel util-  ity maximized simultaneously minimizing battery usage.  present solution multi-criteria problem able signifi-  cantly reduce power consumption. solution variable discount  factor capture effects battery usage. 

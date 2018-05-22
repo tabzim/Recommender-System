@@ -1,0 +1,1 @@
+  describe Reinforcement Learning algorithm partially observ-  able environments short-term memory, call BLHT.  BLHT learns stochastic model based Bayesian Learning, over-  fitting problem reasonably solved. Moreover, BLHT efficient  implementation. paper shows model learned BLHT con-  verges accurate predictions percepts  rewards, short-term memory. 

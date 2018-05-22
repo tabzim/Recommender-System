@@ -1,0 +1,16 @@
+Towards Design and Automation of Hardware-Friendly NOMA Receiver with Iterative Multi-User Detection
+A Framework for High Level Simulation and Optimization of Coarse-Grained Reconfigurable Architectures
+A Simulation Framework for Code-Level Energy Estimation of Embedded Soft-Core Processors
+A Novel Split Radix Fast Fourier Transform Design for an Adaptive and Scalable Implementation
+Framework for minimum user participation rate determination to achieve specific demand response management objectives in residential smart grids
+LED-based Visible Light Communication System for Low Data Rate Point-and-Grab Applications
+Clean Consumer Energy Technologies in Developing Countries: A Case Study of Energy Efficient Lights in Pakistan
+Indoor Positioning Using Visible LED Lights: A Survey
+I-LEACH: Energy Efficient Routing Protocol for Monitoring of the Irrigation Canals
+A design-flow for high-level synthesis and resource estimation of reconfigurable architectures
+Indoor positioning system designs using visible LED lights: performance comparison of TDM and FDM protocols
+System-level Power Estimation of Embedded Processors
+Highly accurate 3D wireless indoor positioning system using white LED lights
+Impact of scheduling flexibility on demand profile flatness and user inconvenience in residential smart grid system
+Component-Level Datapath Merging in System-Level Design of Wireless Sensor Node Controllers for FPGA-Based Implementations
+Architectures de contrôleurs ultra-faible consommation pour noeuds de réseau de capteurs sans fil

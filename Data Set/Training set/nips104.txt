@@ -1,0 +1,1 @@
+ developed VLSI silicon neuron mathe-  matical model state-variable system. describe cir-  cuit implementation compare behaviors observed silicon  neuron mathematical model. perform bifurcation analy-  sis mathematical model varying externally applied current  show behaviors exhibited silicon neuron corre-  sponding conditions agreement predicted  bifurcation analysis. 

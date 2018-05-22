@@ -1,0 +1,20 @@
+Towards an Applicability of Current Network Forensics for Cloud Networks: A SWOT Analysis
+Adaptive beaconing approaches for vehicular ad hoc networks: A survey
+Cloud log forensics: foundations, state of the art, and future directions
+Network forensics: Review, taxonomy, and open challenges
+Evaluation and Adaptation of a Constraint Optimization and Distributed, Anytime A* Algorithm to Design-To-Criteria Scheduling Problem
+Cloud resource allocation schemes: review, taxonomy, and opportunities
+A Review on mobile application energy profiling: Taxonomy, state-of-the-art, and open research issues
+Virtual machine migration in cloud data centers: a review, taxonomy, and open research issues
+A survey on virtual machine migration and server consolidation frameworks for cloud data centers
+A survey on obstacle modeling patterns in radio propagation models for vehicular ad hoc networks
+Energy efficient computational offloading framework for mobile cloud computing
+Man-At-The-End attacks: Analysis, taxonomy, human aspects, motivation and future directions
+Application partitioning algorithms in mobile cloud computing: Taxonomy, review and future directions
+A study on the critical analysis of computational offloading frameworks for mobile cloud computing
+Critical Product Features’ Identification Using an Opinion Analyzer
+Botnet detection techniques: review, future trends, and issues
+Forensic challenges in mobile cloud computing
+Data center network architecture in cloud computing: review, taxonomy, and open research issues
+A review on interworking and mobility techniques for seamless connectivity in mobile cloud computing
+A lightweight distributed framework for computational offloading in mobile cloud computing

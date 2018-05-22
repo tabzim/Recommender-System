@@ -1,0 +1,15 @@
+Indoor Positioning System Designs Using Visible LED Lights: Performance Comparison of TDM and FDM Protocols . 
+ Peak-to-Average Ratio Constrained Demand-Side Management with Consumer’s Preference in Residential Smart Grid .
+ Robust channel quality indicator reporting for multi-carrier and multi-user systems . 
+Electricity Cost Minimization for a Microgrid with Distributed Energy Resource under Different Information Availability . 
+ Indoor Positioning Using Visible LED Lights: A Survey .
+ Power Control for Sum Rate Maximization on Interference Channels under Sum Power Constraint . 
+ Highly Accurate Three Dimensional Wireless Indoor Positioning System Using White LED Lights . 
+ Framework For Minimum User Participation Rate Determination To Achieve Specific Demand Response Management Objectives In Residential Smart Grids Energy .
+ Design of A Scalable Hybrid MAC Protocol for Heterogeneous M2M Networks . 
+ Impact of Scheduling Flexibility on Demand Profile Flatness and User Inconvenience in Residential Smart Grid System . 
+ Distributed H-infinity Based Power Control in a Dynamic Wireless Network Environment . IEEE Communications Letters , 
+ Demand Response Management For Power Throttling Air Conditioning Loads In Residential Smart Grids . 
+ Tradeoff between spectrum cost and quality of service in a cognitive radio network . 
+ Demand Shaping to Achieve Steady Electricity Consumption with Load Balancing in a Smart Grid . 
+ Electricity Cost Minimization for a Residential Smart Grid with Distributed Generation and Bidirectional Power Transactions . 

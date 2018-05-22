@@ -1,0 +1,1 @@
+  propose strategy training neural networks se-  quential sampling-importance resampling algorithms. global  optimisation strategy learn probability distribu-  tion network weights sequential framework.  suited applications involving on-line, nonlinear, non-Gaussian  non-stationary signal processing. 

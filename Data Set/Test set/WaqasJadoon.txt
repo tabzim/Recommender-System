@@ -1,0 +1,9 @@
+An optimized magnetostatic field solver on GPU using open computing language
+A comparative study and workload distribution model for re‐encryption schemes in a mobile cloud computing environment
+Intrinsic Structure based Feature Transform for image classification
+Energy Efficiency techniques in cloud computing
+Predicting programmers' personality via interaction behaviour with keyboard and mouse
+Extended collaborative neighbor representation for robust single-sample face recognition
+Graph-Based features extraction via datum adaptive weighted collaborative representation for face recognition
+Locality Features Encoding in Regularized Linear Representation Learning for Face Recognition
+Collaborative neighbor representation based classification using l2-minimization approach

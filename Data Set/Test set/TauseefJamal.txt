@@ -1,0 +1,35 @@
+Frequent Change Request From User to Handle Cost on Project in Agile Model
+Optimization of moderator assembly for neutron flux measurement: experimental and theoretical approaches
+Detection and prevention against RTS attacks in wireless LANs
+Detection and Prevention against RTS Attacks in Wireless LANs
+Cooperative Communications beyond 5G-Security and Resource Management in Cooperation
+COPELABS 2016
+Design and Architecture of SNMP Monitoring System
+Services and Security in ITS
+Analysis of Detection Features for Wormhole Attacks in MANETs
+Cooperative relaying in user-centric networking under interference conditions
+User-Centric Networking: Cooperation in Wireless Networks
+Wireless Networking for Moving Objects: Protocols, Architectures, Tools, Services and Applications
+Cooperative MAC: Design and Implementation-Thesis book
+Opportunistic routing based on users daily life routine
+Research stream# 1: Multimedia Mobile Networking
+Social-aware opportunistic routing
+User-Centric Networking: Cooperation in Wireless Networks
+Cooperative Relaying for Wireless Local Area Networks
+Cooperative networking in user-centric wireless networks
+Cooperative relaying in wireless user-centric networks
+Cooperative Relaying In Wireless User-Centric Networks. contribution to Book Chapter in User Centric Networking-Future Perspectives
+User-Centric Networking: Living-Examples and Challenges Ahead
+Cooperative Relaying in Dynamic Wireless Networks under Interference Conditions
+Cooperative Relaying in User-Centric Wireless Networks
+RelaySpot, OMNET++ module
+Analysis of hybrid relaying in cooperative WLAN
+D3.8 - ULOOP Framework Design and Implementation Report
+ULOOP European project deliverable (gr. Nr 257418)	3	2013
+A survey of cooperative MAC protocols for mobile communication networks
+Tech Rep. SITILabs-TR-13-02 University Lusófona	3	2013
+Towards Implementing Cooperative Relaying
+Design and Performance of Wireless Cooperative Relaying
+Design and Performance of Wireless Cooperative Relaying
+’Effect of Mobility Patterns on VoIP QoS in Mobile WiMAX ‘
+Cooperative relaying for dynamic networks

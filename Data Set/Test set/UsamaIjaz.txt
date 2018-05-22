@@ -1,0 +1,9 @@
+Cooling Agents' Effect Monitoring When Applied to Skin of Healthy Human Subjects
+The role of facial asymmetry in recognizing age-separated face images
+3D face recognition based on region ensemble and hybrid features
+3D face recognition based on pose and expression invariant alignment
+Mapping urban and peri-urban breeding habitats of Aedes mosquitoes using a fuzzy analytical hierarchical process based on climatic and physical parameters
+Bilateral Symmetry Detection on the Basis of Scale Invariant Feature Transform
+Performance Enhancement of Subspace Learning Face Recognition by Effective Use of Classifiers
+Morpheme Matching Based Text Tokenization for a Scarce Resourced Language
+A Multifaceted Independent Performance Analysis of Facial Subspace Recognition Algorithms

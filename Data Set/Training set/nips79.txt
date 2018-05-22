@@ -1,0 +1,1 @@
+ Bayesian mixture model priori limit number components finite. paper infinite Gaussian mixture  model presented neatly sidesteps difficult problem finding "right" number mixture components. Inference model  efficient parameter-free Markov Chain relies entirely  Gibbs sampling. 

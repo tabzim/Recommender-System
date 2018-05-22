@@ -1,0 +1,1 @@
+  ARTMAP-FD neural network performs identification  (placing test patterns classes encountered training)  familiarity discrimination (judging test pattern belongs  classes encountered training). perfor-  mance ARTMAP-FD tested radar pulse data obtained  field, compared nearest-neighbor-based NEN  algorithm ) extension NEN. 

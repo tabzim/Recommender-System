@@ -1,0 +1,7 @@
+An efficient and noise resistive selective image encryption scheme for gray images based on chaotic maps and DNA complementary rules. 
+Cycle-by-cycle estimation of IMEP and peak pressure using crankshaft speed measurements. 
+Selective encryption for gray images based on chaos and DNA complementary rules. 
+Simulation and Analysis of Adaptive Signal Processing Techniques for Antenna Arrays. 
+Real-Time Signal Processing Architecture and Its Implementation for Circular Sensor Arrays. 
+Signal Processing Requirements and System Design for Sensor Arrays Using COTS Components. 
+Cloud computing privacy & security global issues, challenges, & mechanisms. 

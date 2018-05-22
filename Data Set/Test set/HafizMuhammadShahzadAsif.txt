@@ -1,0 +1,4 @@
+Large-scale learning of combinatorial transcriptional dynamics from gene expression. 
+TFInfer: a tool for probabilistic inference of transcription factor activities.
+Sales Forecasting Using Structural Risk Minimization Principle of Statistical Learning Theory. 
+Support Vector Machine for Engineering Data Classification. 

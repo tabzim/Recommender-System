@@ -1,0 +1,7 @@
+Denoising and error correction in noisy AES-encrypted images using statistical measures
+IMPROVEMENT OF AUV-BORNE SEABED MAPPING WITH QUALITY MAPS USING STATISTICAL ANALYSIS
+Noise removing in encrypted color images by statistical analysis
+Application of homomorphism to secure image sharing
+Decryption of noisy encrypted images by statistical analysis
+Comparison of three solutions to correct erroneous blocks to extract an image of a multiplicative homomorphic cryptosystem
+Analysis of homomorphic properties of RSA-based cryptosystem for image sharing

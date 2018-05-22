@@ -1,0 +1,1 @@
+  algorithm Support Vector regression described. priori  chosen , automatically adjusts flexible tube minimal radius  data fraction  data points lie outside. More-  over, shown parametric tube shapes non-constant  radius. algorithm analysed theoretically experimentally. 

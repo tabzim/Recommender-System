@@ -1,0 +1,13 @@
+Design and implementation of an attestation protocol for measured dynamic behavior
+A three-way decision making approach to malware analysis using probabilistic rough sets
+Efficient, Scalable and Privacy Preserving Application Attestation in a Multi Stakeholder Scenario
+TSSDroid: realization of an efficient and usable TSS API for the Android software stack
+A three-way decision making approach to malware analysis
+Realization of a user‐centric, privacy preserving permission framework for Android
+Programming Interfaces for the TPM
+Transforming high-level requirements to executable policies for Android
+Behavioral Attestation for Web Services using access policies
+Extending Java Pathfinder (JPF) with property classes for verification of Android permission extension framework
+Using trusted computing for privacy preserving keystroke-based authentication in smartphones
+Towards a high-level trusted computing API for Android software stack
+Realization of dynamic behavior using remotely verifiable n-call slides in Unix process execution trace

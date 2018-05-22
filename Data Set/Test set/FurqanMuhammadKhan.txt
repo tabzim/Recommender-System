@@ -1,0 +1,9 @@
+Multi-shot Person Re-Identification Using Part Appearance Mixture.
+Identifying Persons of Interest in CCTV Camera Networks. 
+Computational Fusion of Multi-View and Multi-Illumination Imaging. 
+Unsupervised data association for metric learning in the context of multi-shot person re-identification. 
+Person Re-identification for Real-world Surveillance Systems. 
+Leveraging Mutual Information in Local Descriptions: From Local Binary Patterns to the Image. 
+Conditional Bayesian networks for action detection.
+Simultaneous inference of activity, pose and object. 
+Multiple pose context trees for estimating human pose in object context. 

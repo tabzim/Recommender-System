@@ -1,0 +1,1 @@
+ Named Data Networking Community Meeting (NDNcomm) report summary ?rst NDN Community Meeting held UCLA Los Angeles, California September 4-5, 2014. meeting provided platform attendees 39 institutions countries exchange recent NDN research development results, debate existing proposed functionality security support, provide feedback NDN architecture design evolution. 

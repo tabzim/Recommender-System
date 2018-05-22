@@ -1,0 +1,23 @@
+ Covert Communication in Fading Channels under Channel Uncertainty. 
+Survey on Essential and Accidental Real-Time Issues in Software Engineering. 
+ A Critical Evaluation and Framework of Business Process Improvement Methods. 
+ a process warehouse-based resource preference evaluation method. IJBIS 21(2): 
+Generating Process Model Collection with Diverse Label and Structural Features.
+ A Textual Description Based Approach to Process Matching. 
+P2CySeMoL: Predictive, Probabilistic Cyber Security Modeling Language. 
+Empirical Analysis of Rate Limiting + Leap Ahead (RL+LA) Countermeasure against Witty Worm. 
+Securi CAD by Foreseeti: A CAD Tool for Enterprise Cyber Security Management. 
+Single Frequency Network Based Distributed Cooperative Routing with CSMA MAC. 
+Integrated Metamodel for Security Analysis. 
+An architecture modeling framework for probabilistic prediction. 
+ Energy-Efficient SRAM FPGA-Based Wireless Vision Sensor Node: 
+ Optimal Energy Allocation for Energy Harvesting Transmitters With Hybrid Energy Storage and Processing Cost. 
+A comparative study of in-sensor processing vs. raw data transmission using ZigBee, BLE and Wi-Fi for data intensive monitoring applications. 
+ Energy harvesting communications with hybrid energy storage and processing cost. 
+The Enterprise Architecture Analysis Tool - Support for the Predictive, Probabilistic Architecture Modeling Framework.
+ SENTIOF: An FPGA Based High-Performance and Low-Power Wireless Embedded Platform. 
+ P2AMF: Predictive, Probabilistic Architecture Modeling Framework. 
+ Optimal scheduling for energy harvesting transmitters with hybrid energy storage. 
+ An FPGA-based high-performance wireless vibration analyzer. 
+ Investigating Energy Consumption of an SRAM-based FPGA for Duty-Cycle Applications. 
+ Optimal Scheduling for Energy Harvesting Transmitters with Hybrid Energy Storage 

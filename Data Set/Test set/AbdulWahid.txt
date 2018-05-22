@@ -1,0 +1,17 @@
+Pressure Sensor Based Reliable (PSBR) Routing Protocol for Underwater Acoustic Sensor Networks. Ad Hoc & Sensor Wireless Networks 32(3-4): 175-196 (2016)
+ DEAC: Depth and Energy Aware Cooperative Routing Protocol for Underwater Wireless Sensor Networks. CISIS 2016: 150-158
+ SMIC: Sink Mobility with Incremental Cooperative Routing Protocol for Underwater Wireless Sensor Networks. CISIS 2016: 256-263
+ Detection of Acoustic Events by using MFCC and Spectro-Temporal Gabor Filterbank Features. ICSPS 2016: 158-164
+ Enhanced Energy Efficient Depth Based Routing Protocol for Underwater WSNs. IMIS 2016: 70-77
+ Comparative study of routing strategies in software defined networking. SAC 2016: 696-702
+ An environment-aware routing protocol for underwater wireless sensor networks. IJAACS 8(2/3): 228-242 (2015)
+ Multi-objective multi-view clustering ensemble based on evolutionary approach. CEC 2015: 1696-1703
+ Multi-objective clustering ensemble for high-dimensional data based on Strength Pareto Evolutionary Algorithm (SPEA-II). DSAA 2015: 1-9
+Toward constructing a secure online examination system. IMCOM 2015: 95:1-95:8
+ A Soft Subspace Clustering Method for Text Data Using a Probability Based Feature Weighting Scheme. WISE (2) 2015: 124-138
+A reliable and energy-efficient routing protocol for underwater wireless sensor networks. Int. J. Communication Systems 27(10): 2048-2062 (2014)
+MRP: A Localization-Free Multi-Layered Routing Protocol for Underwater Wireless Sensor Networks. Wireless Personal Communications 77(4): 2997-3012 (2014)
+ Multi-view clustering of web documents using multi-objective genetic algorithm. IEEE Congress on Evolutionary Computation 2014: 2625-2632
+ EENC - energy efficient nested clustering in UASN. SAC 2014: 706-710
+ AEERP: AUV aided energy efficient routing protocol for underwater acoustic sensor network. PM2HW2N@MSWiM 2013: 53-60
+ Exploiting User Queries for Search Result Clustering.

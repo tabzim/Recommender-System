@@ -1,0 +1,4 @@
+ Watermark Compression in Medical Image Watermarking Using Lempel-Ziv-Welch (LZW) Lossless Compression Technique. 
+ Secured Telemedicine Using Whole Image as Watermark with Tamper Localization and Recovery Capabilities. 
+ Architecture of Hybrid Mobile Social Networks for Efficient Content Delivery. 
+ Panel labels extraction from multi-panel figures for facilitating multi-modal information retrieval. 

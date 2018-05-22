@@ -1,0 +1,4 @@
+Computational Analysis of Emotion Dynamics. 
+Statistical Modelling of Complex Emotions Using Mixture of Von Mises Distributions. 
+A robust joint face model for human emotion recognition. IVCNZ 2012: 352-357
+A Reliable Hybrid Technique for Human Face Detection. VISAPP (2) 2010: 241-244

@@ -1,0 +1,1 @@
+  compute upper lower bounds VC dimension  feedforward networks units piecewise polynomial activa-  tion functions. show number layers fixed,  VC dimension grows log W, number  parameters network. result stands opposition  case number layers unbounded, case  VC dimension grows 2. 

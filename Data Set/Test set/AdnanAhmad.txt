@@ -1,0 +1,4 @@
+Heuristic Algorithm Based Energy Management System in Smart Grid. CISIS 2016: 396-402
+Realistic Home Energy Management System Using Exogenous Grid Signals. NBiS 2016: 458-463
+Dynamic Rights Reallocation In Social Networks. HAISA 2012: 185-194
+More Choices, More Control: Extending Access Control by Meta-rights Reallocation. 

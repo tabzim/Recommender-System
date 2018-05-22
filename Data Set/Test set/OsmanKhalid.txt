@@ -1,0 +1,8 @@
+Benchmarking and Modeling of Routing Protocols for Delay Tolerant Networks. 
+EvacSys: A Cloud-Based Service for Emergency Evacuation. 
+ Scalability Issues in Online Social Networks. 
+ A comparative study of location-based recommendation systems. 
+ Opportunistic Databank: A context Aware on-the-fly Data Center for Mobile Networks. 
+A taxonomy and survey on Green Data Center Networks. 
+ A Ubiquitous Cloud-Based Context-Aware Recommendation System for Mobile Social Networks. 
+ Comparative study of trust and reputation systems for wireless sensor networks. 

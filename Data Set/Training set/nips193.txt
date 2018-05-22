@@ -1,0 +1,1 @@
+  Based simple convexity lemma, develop bounds differ-  ent types Bayesian prediction errors regression Gaussian  processes. basic bounds formulated fixed training set.  Simpler expressions obtained sampling input distri-  bution equals weight function covariance kernel,  yielding asymptotically tight results. results compared  numerical experiments. 

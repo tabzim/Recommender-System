@@ -1,0 +1,1 @@
+  Recent works parameter estimation neural coding  demonstrated optimal performance related mutual  information parameters data. consider mutual  information case dependency parameter (a  vector 0) conditional p.d.f. observation (a vector  ), scalar product 0. only. derive bounds  asymptotic behaviour mutual information compare  results obtained model "replica technique". 

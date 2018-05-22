@@ -1,0 +1,18 @@
+Fuzzy Logic Based Enhanced AOMDV with Link Status Classification for Efficient Multi-Path Routing in Multi-Hop Wireless Networks
+Review Spam Detection using Sentiments and Novel Features
+Fusion of motivational strategies with recommender system innovative framework for digital repositories
+The first experiments in SST-1
+Mac layer challenges and proposed protocols for vehicular ad-hoc networks
+Throughput Performance Improvement for VoIP Applications in Fixed WiMAX Network Using Client-Server Model
+Throughput enhancement for fixed WiMAX network using distributed model
+Fuzzy logic based link status classification for efficient multipath routing in multi-hop wireless mesh networks
+Real-time massage differentiation with priority data service flows in VANET
+A DNS-assisted simultaneous mobility support procedure for Mobile IPv6
+Performance comparison of centralized and distributed network models to support QoS in fixed WiMAX
+Throughput measurement for the guaranteed QoS real-time traffic flows in VANETs
+A TOTP-based enhanced route optimization procedure for mobile IPv6 to reduce handover delay and signalling overhead
+Guaranteed QoS for UDP and TCP Flows to Measure Throughput in VANETs
+Guaranteed QoS for UDP and TCP flows to measure throughput in VANETs
+A Distributed Model to Analyzed QoS Parameters Performance Improvement for Fixed WiMAX Networks
+An Enhanced Procedure for Mobile IPv6 Route Optimization to Reduce Handover Delay and Signaling Overhead
+A QoS approach for cluster-based routing in VANETS using TDMA scheme

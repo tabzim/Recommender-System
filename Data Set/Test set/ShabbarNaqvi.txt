@@ -1,0 +1,3 @@
+Modelling FTIR spectral sata with Type-I and Type-II fuzzy sets for breast cancer grading
+A general type-II similarity based model for breast cancer grading with FTIR spectral data
+An Overview of the Application of Fuzzy Inference System for the Automation of Breast Cancer Grading with Spectral Data

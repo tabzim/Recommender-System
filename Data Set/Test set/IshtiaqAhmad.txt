@@ -1,0 +1,23 @@
+ Co-channel interference management using eICIC/FeICIC with coordinated scheduling for the coexistence of PS-LTE and LTE-R networks. 
+Multi-hopping loss in MIMO decode-and-forward cooperative relaying. 
+ Capacity analysis of zero-forcing precoding in multibeam satellite systems with rain fading. 
+ A review of channel selection algorithms for EEG signal processing. 
+ A dynamic coalition formation framework for interference management in dense small-cell networks. 
+ Ergodic Capacity of Nonlinear MIMO-OFDM Relaying Channels. 
+Spectrum sharing between small cells and satellites: Opportunities and challenges. 
+ Resource management in device-to-device underlaying cellular network. 
+ EEG seizure detection and prediction algorithms: a survey. 
+ Game theoretic approach for joint resource allocation in spectrum sharing femtocell networks. 
+ Spectrum sharing and energy-efficient power optimization for two-tier femtocell networks.
+ Joint price and power allocation under interference constraint for dynamic spectrum access networks. 
+ Smart and Energy Efficient LED Street Light Control System Using ZigBee Network. 
+ A distributed coalition formation scheme for interference management in dense small cell networks. 
+ Low Complexity Linear Precoding Scheme for Interference Management in Femtocell Networks. 
+ Improved Energy Detector for Full Duplex Sensing. 
+ Full-Duplex Spectrum Sensing Scheme Based on Phase Difference. 
+ Capacity analysis of threshold-based SNR scheduler in LTE systems. 
+ Spectral broadening effects of high-power amplifiers in MIMO-OFDM relaying channels. 
+ Price Based Spectrum Sharing and Power Allocation in Cognitive Femtocell Network. 
+A Novel Cooperative Sensing Based on Spatial Distance and Reliability Clustering Scheme in Cognitive Radio System. 
+ Temporal Entropy and Cognitive Information Based Efficient Environment Awareness Techniques in Cognitive Radio Networks. 
+ Stackelberg game based optimized power allocation scheme for two-tier femtocell network.

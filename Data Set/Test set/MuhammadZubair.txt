@@ -1,0 +1,16 @@
+ A portable, extensible and fast stochastic volatility model calibration using multi and many-core processors. Concurrency and Computation: Practice and Experience 
+ Challenges in matching secondary structures in cryo-EM: 
+ Memory-Efficient Parallel Simulation of Electron Beam Dynamics Using GPUs. 
+ An Optimized Multicolor Point-Implicit Solver for Unstructured Grid Applications on Graphics Processing Units. 
+Optimizing a Multiple Right-Hand Side Dslash Kernel for Intel Knights Corner. 
+ ISQuest: finding insertion sequences in prokaryotic sequence fragment data. 
+A Dynamic Programming Algorithm for Finding the Optimal Placement of a Secondary Structure Topology in Cryo-EM Data. 
+ A Novel Computational Method for Deriving Protein Secondary Structure Topologies Using Cryo-EM Density Maps and Multiple Secondary Structure Predictions. 
+ Balsa Terzic: High-fidelity simulation of collective effects in electron beams using an innovative parallel method. 
+ Solving the Secondary Structure MatchingProblem in Cryo-EM De Novo ModelingUsing a Constrained $K$-Shortest Path Graph Algorithm. 
+ Big data challenges for estimating genome assembler quality. 
+ An efficient algorithm for k-core decomposition on multicore processors. 
+ A bit-based approach for maximal clique enumeration on multicore processors. 
+Maximal clique enumeration for large graphs on hadoop framework. 
+ A portable and fast stochastic volatility model calibration using multi and many-core processors. 
+Accelerating option risk analytics in R using GPUs.

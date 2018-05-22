@@ -1,0 +1,1 @@
+ provide analysis turbo decoding algorithm (TDA)  setting involving Gaussian densities. context,  able show algorithm converges -  surprisingly - density generated TDA differ  significantly desired posterior density, means  densities coincide. 

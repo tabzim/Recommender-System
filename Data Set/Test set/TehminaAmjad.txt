@@ -1,0 +1,10 @@
+Finding Rising Stars in Co-Author Networks via Weighted Mutual Influence
+Modelling to identify influential bloggers in the blogosphere: A survey
+Indexing of authors according to their domain of expertise
+Standing on the shoulders of giants
+A survey on the state-of-the-art machine learning models in the context of NLP
+Impact of mutual influence while ranking authors in a co-authorship network
+MuICE: Mutual Influence and Citation Exclusivity Author Rank
+Author Productivity Indexing via Topic Sensitive Weighted Citations
+Topic-based heterogeneous rank
+Mutual Influence based Ranking of Authors

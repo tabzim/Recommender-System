@@ -1,0 +1,13 @@
+Parallel fragments: Measuring their impact on translation performance
+Empirical use of Information Retrieval to build synthetic data for SMT domain adaptation
+Text Normalization in Urdu Text to Speech Synthesis Systems
+Sélection de Corpus en Traduction automatique statistique Efficient corpus selection for Statistical Machine Translation
+Sélection de Corpus en Traduction automatique statistique Efficient corpus selection for Statistical Machine Translation
+Extrinsic evaluation of sentence alignment systems
+Sélection de corpus en traduction automatique statistique
+Parallel sentence generation from comparable corpora for improved SMT
+LIUM's SMT machine translation systems for WMT 2011
+Investigations on translation model adaptation using monolingual data
+LIUM's Statistical Machine Translation System for the NTCIR Chinese/English PatentMT.
+LIUM SMT machine translation system for WMT 2010
+Evaluation of Sentence Alignment Systems

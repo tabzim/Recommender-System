@@ -1,0 +1,1 @@
+  analyze asymptotic behavior autoregressive neural net-  (AR-NN) processes techniques Markov chains  non-linear series analysis. shown standard AR-NNs  shortcut connections asymptotically stationary. lin-  ear shortcut connections allowed, shortcut weights  determine system stationary, standard  conditions linear AR processes used. 

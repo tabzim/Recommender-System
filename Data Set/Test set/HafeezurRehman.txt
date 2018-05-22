@@ -1,0 +1,3 @@
+ A Structure based Approach for Accurate Prediction of Protein Interactions Networks. BIOINFORMATICS 2016: 237-244
+Using Boolean networks to model post-transcriptional regulation in gene regulatory networks. J. Comput. Science 5(3): 332-344 (2014)
+ Accounting for Post-Transcriptional Regulation in Boolean Networks Based Regulatory Models. IWBBIO 2013: 397-404

@@ -1,0 +1,12 @@
+Miniaturized triple‐band and ultra‐wideband (UWB) fractal antennas for UWB applications
+A frequency reconfigurable cylindrically shaped surface with cloaking‐like properties
+A 1x2 Microstrip Array with Reduced Mutual Coupling Achieved with a Cylindrically-Shaped Cloaking-Based Surface
+Planar, compact ultra-wideband polarisation diversity antenna array
+Isolation Enhancement of a Wideband MIMO Antenna using Floating Parasitic Elements
+A Miniaturized Dual-Band Diversity Antenna for WLAN Applications
+Compact Planar UWB MIMO Antenna with On-Demand WLAN Rejection
+A Two-Port Frequency Reconfigurable Microstrip Element For Conformal Cloaking
+On the use of amplitude tapering for pattern correction of conformal (Curved) antennas
+Zero Reflection Boundary using Tensor Transmission Line
+Scanning characteristics of a self-adapting phased-array antenna on a wedge-shaped conformal surface
+An initial investigation on the use of carbon microfibers for conformal transmission lines

@@ -1,0 +1,1 @@
+  paper introduce class image models,  call dynamic trees DTs. dynamic tree model specifies prior  large number trees, tree-structured  belief net (TSBN). Experiments show DTs capable  generating images blocky, models  translation invariance properties fixed, "balanced" TSBN.  show Simulated Annealing effective finding trees  high posterior probability. 

@@ -1,0 +1,1 @@
+ "knows" neural networks need single layer  nonlinear units compute interesting functions. show  false employs winner-take-all nonlinear unit:  boolean function computed single k-winner-take-  unit applied weighted sums input variables.  continuous function approximated arbitrarily  single soft winner-take-all unit applied weighted sums  input variables. 

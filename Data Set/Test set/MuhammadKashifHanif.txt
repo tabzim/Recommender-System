@@ -1,0 +1,14 @@
+Accelerating Viterbi algorithm on graphics processing units
+Interactive Systems regarding Global Software Development and Offshoring Working
+Evaluation of Security Strength in Different Networks
+Comparative Analysis of Algorithms to Discover Shortest Path in Social Networks
+Evaluation and Risk Assessment of Entities Involved in Information and Communication Technology (ICT)
+Text Mining: Techniques, Applications and Issues
+A Multi-Agent Framework for Data Extraction,Transformation and Loading in Data Warehouse
+Secure Graphical Password Techniques against Shoulder Surfing and Camera based Attacks
+Goal Model Integration for Tailoring Product Line Development Processes
+Mental Health Issues in Young Adults of Pakistan: The Relationship of Narcissism and Self -Esteem With Aggression
+BTAS: A Library for Tropical Algebra
+Graphics Card Processing: Acceleration of Multiple Sequence Alignment
+Mapping dynamic programming algorithms on graphics processing units
+Graphics card processing: accelerating profile-profile alignment

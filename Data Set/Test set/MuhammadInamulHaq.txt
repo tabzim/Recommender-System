@@ -1,0 +1,5 @@
+HANDOVER ARCHITECTURES FOR HETEROGENEOUS NETWORKS USING THE MEDIA INDEPENDENT INFORMATION HANDOVER (MIH).
+Foreground detection using background subtraction with histogram
+Contribution of Logarithmic Tools to Texture Analysis
+Radon transform based real-time weed classifier
+Radial Symmetry Based Real-Time Weed Classifier

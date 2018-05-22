@@ -1,0 +1,1 @@
+  examine problem estimating parameters multinomial  distribution large number discrete outcomes,  training data. analyze problem  Bayesian perspective develop hierarchical prior incorporates  assumption observed outcomes constitute small subset  outcomes. show efficiently perform exact  inference form hierarchical prior compare standard  approaches. 

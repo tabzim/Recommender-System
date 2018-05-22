@@ -1,0 +1,2 @@
+Genetic algorithm and difference expansion based reversible watermarking for relational databases. 
+Authentication of images for 3D cameras: Reversibly embedding information using intelligent approaches

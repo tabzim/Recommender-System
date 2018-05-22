@@ -1,0 +1,1 @@
+ neural model oscillatory correlation  segregate speech interfering sound sources. core model  two-layer neural oscillator network. sound stream represented  synchronized population oscillators, streams  represented desynchronized oscillator populations. model  evaluated corpus speech mixed interfering sounds,  produces improvement signal-to-noise ratio mixture. 

@@ -1,0 +1,10 @@
+Adaptive stochastic segmentation via energy-convergence for brain tumor in MR images
+Journal of Visual Communication and Image Representation	 	2017
+System for assigning a smartphone as a temporary key for a vehicle
+Comparison of brain tumor MRI classification methods using probabilistic features
+Biomedical Engineering (BioMed), Process for synchronizing audio playback on a smartphone with content displayed on a digital sign
+On the Hybrid Framework of Personalization Data for the Automotive HMI
+SAE Technical Paper	 	2014
+Advanced machine learning models for online travel-time prediction on freeways
+Georgia Institute of Technology	 	2013
+Configuration for Predicting Travel-Time Using Wavelet Packets and Support Vector Regression

@@ -1,0 +1,37 @@
+ Resource Management in Cloud: Prospects, Taxonomy and Challenges,
+ “A Cross-Layer Approach for Partition Detection at Overlay Layer for Structured P2P in MANETs ”, 
+ An Energy Efficient Simultaneous-Node Repositioning Algorithm for Mobile Sensor Networks
+"Road Oriented Traffic Information System for Vehicular Ad Hoc Networks", 
+  "Survey on Social Networking Services," IET Networks.  Publisher: IET/IEEE 
+ Congestion Control Protocols for Wireless Sensor Network: A survey, 
+ Energy Efficient Multi Hierarchy Clustering Protocol for Wireless Sensor Network, 
+Energy Efficient and QoS aware Routing Protocol for Clustered Wireless Sensor Network, 
+ Coordinated Opportunistic Routing Protocol for Wireless Mesh Networks, 
+A reliable checkpoint storage strategy for grid,
+ Low Latency Sleep/Wake Scheduling Scheme for Wireless Sensor Network, 
+“Replication Based Fault Tolerant Job Scheduling Strategy for Economy Driven Grid " 
+ Multi Hierarchy clustering Protocol for Wireless Sensor Network (EMHC), 
+ , Mobile Nodes based Clustering Protocol for Life Time Optimization in Wireless Sensor Network, 
+  Sleep/wake scheduling scheme for minimizing end-to-end delay in multi-hop wireless sensor networks, 
+ Adaptive checkpointing strategy to tolerate faults in economy based grid. 
+Performance evaluation of fault tolerance techniques in grid computing system. 
+ A hybrid fault tolerance technique in grid computing system. 
+A Scalable and Minimized Butterfly Fat Tree (SMBFT) Switching Network for On-Chip Communication, 
+ “Dynamic Load-based multi-node repositioning for Mobile Sensor Network”, 
+"Simultaneously Node Relocation Algorithm for Mobile Sensor Network
+ "Multi-node Repositioning Technique for Mobile Sensor Network",  
+, Dynamic load-based multi-node repositioning for mobile sensor network, 
+ Dynamic Sleep Scheduling for Minimizing Delay in Wireless Sensor Network,
+ Low Latency Sleep/Wake Scheduling Scheme for Wireless Sensor Network, 
+ Mobile Sink based Routing Protocol (MSRP) for Prolonging Network Lifetime in Clustered Wireless Sensor Network, 
+ Energy Efficient Multi Hierarchy clustering Protocol for Wireless Sensor Network (EMHC, 
+ Mobile Nodes based Clustering Protocol for Life Time Optimization in Wireless Sensor Network, 
+ Region based Energy aware Clustering in  Wireless Sensor Network, 
+ Energy Balanced Clustering in Wireless Sensor  Network , 
+ Adaptive Task Scheduling Strategy for Economy Based Grid, 
+ Robust Grid Resource Broker Strtegy for Economy Based Grid, 
+ “Fault Tolerant Re-routing Protocol for Wireless Sensor Networks”, 
+" QoS aware Interpiconet Scheduling in Bluetooth Scatternet (QIPS) ", 
+   "Improved IP Network for Emergency Service", 
+ “Fault Tolerant Job Scheduling in Computational Grid”, 
+ “Robust Nomadic Token Dynamic Load Balancing Algorithm with Fixed Epoch (RNTDE)” 

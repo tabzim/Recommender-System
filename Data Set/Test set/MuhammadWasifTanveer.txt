@@ -1,0 +1,20 @@
+A miniaturized dual-band stop frequency selective surface for 900 MHz and 1800 MHz bands shielding
+Small form factor dual band (28/38 GHz) PIFA antenna for 5G applications
+A Flexible, Micro-Lens-Coupled LED Stimulator for Optical Neuromodulation
+Small form factor PIFA antenna design at 28 GHz for 5G applications
+A fully packaged D-band MIMO transmitter using high-density flip-chip interconnects on LCP substrate
+Surface Roughness Modeling of Substrate Integrated Waveguide in D-Band
+A V-band end-fire Yagi-Uda antenna on an ultra-thin glass packaging technology
+Thermal Modeling of Microfluidic Channels for Cooling High Power Resistors on Multilayer Organic Liquid Crystal Polymer Substrate
+Thermal Modeling of Microfluidic Channels for Cooling High Power Resistors on Multilayer Organic Liquid Crystal Polymer Substrate
+D-band channel measurements and characterization for indoor applications
+A D-band micromachined end-fire antenna in 130-nm SiGe BiCMOS technology
+Characterization of electrical properties of glass and transmission lines on thin glass up to 50 GHz
+Large frequency tuning of a millimeter-wave antenna using dielectric liquids in integrated micro-channels
+Microwave Symposium (IMS), 2015 IEEE MTT-S International, 1-3	3	2015
+Microfluidically reconfigurable GaN power amplifier on multilayer organic substrate for s-band and c-band applications
+A low loss X-band filter using 3-D polyjet technology
+A SiGe D-band low-noise amplifier utilizing gain-boosting technique
+Design and development of organically packaged components and modules for microwave and Mm-wave applications
+Orthogonal wideband (DC-10 GHz) microstrip-to-microstrip transition using flexible LCP interconnects
+Compact, low-power, single-ended and differential SiGe W-band LNAs

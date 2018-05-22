@@ -1,0 +1,6 @@
+Subject-independent human activity recognition using Smartphone accelerometer with cloud support. 
+ comparing DTW and WFM techniques for 3D gesture recognition. 
+A Dynamic Approach to Recognize Activities in WSN. 
+Interactive Slide Navigation: An Approach for Manipulation Slides with Augmented Reality Markers. 
+Semantic Search and Retrieval System for Learning Objects. 
+An Efficient Live Stream Community Management Scheme for the Mobile. 

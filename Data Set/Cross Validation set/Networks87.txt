@@ -1,0 +1,1 @@
+ eSDN: Rethinking Datacenter Transports End-Host SDN Controllers propose eSDN; practical approach deploying datacenter transports requiring switches. eSDN light-weight SDN controllers end-hosts querying network state. obviates need statistics collection centralized controller especially short timescales. show eSDN scale allow range datacenter transports realized. 

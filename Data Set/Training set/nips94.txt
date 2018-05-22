@@ -1,0 +1,1 @@
+ method multivariate density estimation developed  based Support Vector Method (SVM) solution inverse  ill-posed problems. solution form mixture den-  sities. method Gaussian kernels compared favorably  Parzen's method Gaussian Mixture Model method.  synthetic data achieve accurate estimates densities  2, 6, 12, 40 dimensions. 

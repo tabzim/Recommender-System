@@ -1,0 +1,1 @@
+ propose Markov Chain Monte Carlo algorithm gen-  eralization stochastic dynamics method. algorithm performs  exploration space intrinsic geometric structure, facil-  itating efficient sampling complex distributions. Applied Bayesian  learning neural networks, algorithm found perform  state-of-the-art method consuming considerably  time. 

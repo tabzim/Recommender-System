@@ -1,0 +1,12 @@
+An optimized magnetostatic field solver on GPU using open computing language
+A comparative study and workload distribution model for re‐encryption schemes in a mobile cloud computing environment
+Energy Efficient Routing Protocols in Wireless Sensor Networks: A survey
+A Comparison of Proxy Re-Encryption Schemes-A Survey
+Service Level Agreement in Cloud Computing: A Survey
+Energy Efficiency techniques in cloud computing
+Computation of Demagnetization Tensors by Utilizing Fourier Properties
+Optimization of a Mult-Dimensional FFT Library for Accelerating Magnetostatic Field Computations
+Review of parallel and distributed architectures for micromagnetic codes
+A mutual demagnetizing tensor for n-body magnetic field modeling
+Parallel butterfly sorting algorithm on gpu
+General Purpose Computation on Graphics Processing Units using OpenCL

@@ -1,0 +1,13 @@
+Lossless image compression: application of Bi-level Burrows Wheeler Compression Algorithm (BBWCA) to 2-D data. Multimedia Tools Appl. 76(10): 12391-12416 (2017)
+ ParkUs: A Novel Vehicle Parking Detection System. AAAI 2017: 4650-4656
+2016
+Optimising sampling rates for accelerometer-based human activity recognition. Pattern Recognition Letters 73: 33-40 (2016)
+Lossless colour image compression using RCT for bi-level BWCA. Signal, Image and Video Processing 10(3): 601-607 (2016)
+Multi-stakeholders' Policy Enforcement for Android. DASC/PiCom/DataCom/CyberSciTech 2016: 317-321
+ HealthyOffice: Mood recognition at work using smartphones and wearable sensors. PerCom Workshops 2016: 1-6
+A Novel Markov Logic Rule Induction Strategy for Characterizing Sports Video Footage. IEEE MultiMedia 22(2): 24-35 (2015)
+ How did I do?: Automatic Skill Assessment from Activity Data. GetMobile 19(4): 18-22 (2015)
+ Beyond activity recognition: skill assessment from accelerometer data. UbiComp 2015: 1155-1166
+Multilevel Chinese Takeaway Process and Label-Based Processes for Rule Induction in the Context of Automated Sports Video Annotation. IEEE Trans. Cybernetics 44(10): 1910-1923 (2014)
+ Occupancy monitoring using environmental & context sensors and a hierarchical analysis framework. 
+Automatic correction of annotation boundaries in activity datasets by class separation maximization. UbiComp (Adjunct Publication) 2013: 673-678

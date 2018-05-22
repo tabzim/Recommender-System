@@ -1,0 +1,15 @@
+Amino acid composition predicts prion activity
+CAFÉ-Map: Context Aware Feature Mapping for mining high dimensional biomedical data
+Issues in performance evaluation for host–pathogen protein interaction prediction
+SELF-TAUGHT LEARNING OF THE PROTEIN UNIVERSE
+PAIRpred: Partner‐specific prediction of interacting residues from sequence and structure
+RAMClust: a novel feature clustering method enables spectral-matching-based annotation for metabolomics data
+Large Margin Methods for Partner Specific Prediction of Interfaces in Protein Complexes
+Large margin methods for partner specific prediction of interfaces in protein complexes
+Automated classification of liver disorders using ultrasound images
+Multiple instance learning of Calmodulin binding sites
+Detection and localization of myocardial infarction using k-nearest neighbor classifier
+MOX: A novel global optimization algorithm inspired from Oviposition site selection and egg hatching inhibition in mosquitoes
+Automatic detection and localization of myocardial infarction using back propagation neural networks
+Prediction of acute hypotension episodes in patients taking pressor medication using modeling of arterial blood pressure waveforms
+Pruned fuzzy K-nearest neighbor classifier for beat classification

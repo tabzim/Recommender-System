@@ -1,0 +1,5 @@
+ Identification of splicing sites using hybrid space of pseudo trinucleotide and pseudo tetranucleotide composition. 
+Identification of DNA binding proteins using evolutionary profiles position specific scoring matrix.
+iTIS-PseKNC: Identification of Translation Initiation Site in human genes using pseudo k-tuple nucleotides composition. 
+Identification of Heat Shock Protein families and J-protein types by incorporating Dipeptide Composition into Chou's general PseAAC. 
+Discriminating protein structure classes by incorporating Pseudo Average Chemical Shift to Chou's general PseAAC and Support Vector Machine. 

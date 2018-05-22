@@ -1,0 +1,7 @@
+ “A Mechanism for Detecting Dishonest Recommendation in Indirect Trust Computation ”, 
+“An Effective Model for Indirect Trust Computation in Pervasive Computing Environment”,  
+ “Modelling Interaction Using Trust and Recommendation in Ubiquitous Computing Environment”
+“A Recommendation Exchange Protocol between Smart Devices in Pervasive Computing Environment”.
+“A Fuzzy Based Credibility Evaluation of Recommended Trust in Pervasive Computing Environment”,
+ “An Attack Resistant Method for Detecting Dishonest Recommendations in Pervasive Computing Environment”, 
+ “An Adaptive Framework for Trust based Security in Pervasive Computing Environment”,  

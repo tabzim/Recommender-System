@@ -1,0 +1,5 @@
+ Selecting the Best Reliability Model to Predict Residual Defects in Open Source Software. 
+ A method for predicting open source software residual defects. 
+An empirical analysis of open source software defects data through software reliability growth models. 
+An Empirical Study of Reliability Growth of Open versus Closed Source Software through Software Reliability Growth Models. 
+A Comparative Analysis of Software Reliability Growth Models using Defects Data of Closed and Open Source Software

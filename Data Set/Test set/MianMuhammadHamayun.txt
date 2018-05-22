@@ -1,0 +1,7 @@
+Multiscale segmentation of exudates in retinal images using contextual cues and ensemble classification", 
+"Native Simulation of MPSoC Using Hardware Assisted Virtualization",
+"On MPSoC Software Execution at the Transaction Level",
+ "Towards Hard Real-Time Control and Infotainment Applications in Automotive Platforms", 
+ "A Performance Analysis of ARM Virtual Machines Secured using SELinux", 
+ "Native Simulation of Complex VLIW Instruction Sets using Static Binary Translation and Hardware-Assisted Virtualization", 
+ "Native MPSoC Co-Simulation Environment for Software Performance Estimation", 

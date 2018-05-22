@@ -1,0 +1,5 @@
+Merging of DHT-based logical networks in MANETs. Trans. Emerging Telecommunications Technologies 
+ A novel approach to estimate canopy height using ICESat/GLAS data: A case study in the New Forest National Park, UK. 
+Estimation of grassland biomass and nitrogen using MERIS data. 
+Using a Genetic Algorithm as an Optimal Band Selector in the Mid and Thermal Infrared (2.5-14 µm) to Discriminate Vegetation Species. 
+Estimation of leaf water content from far infrared (2.5-14 µm) spectra using continuous wavelet analysis.

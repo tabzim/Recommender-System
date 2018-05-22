@@ -1,0 +1,1 @@
+  present theory mean field approximation based information ge-  ometry. theory includes consistent naive mean field  approximation, TAP approach linear response the-  orem statistical physics, giving clear information-theoretic interpreta-  tions them. 

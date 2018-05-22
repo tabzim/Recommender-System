@@ -1,0 +1,19 @@
+``Performance Analysis of Novel
+Interference Mitigation Schemes in Heterogeneous Networks over Rayleigh and Rician Fading
+Generating Function (M.G.F.) based Performance Analysis of Network Coding Two-way Relaying
+Using Alamouti Scheme over Various Fading Channels". 
+Novel Femto Cooperative Scheme (Fe-COPE) with Interference Mitigation and Performance Analysis under Different Fading
+Channels". 
+``A MIMO Based Interference Mitigation Protocol for Femto Cells and
+Performance Analysis using Alamouti Coding Gain for Different Fading Scenarios". EURASIP
+`A Power-Enhanced Cooperative Scheme in OFDMA Heterogeneous systems for
+5G Networks". 
+``Performance Analysis of
+MIMO Based Multi-User Cooperation Diversity System using Hybrid FDMA-TDMA
+Technique". 
+``Performance Analysis of
+Multi-User Cooperation Diversity System using MIMO Approach Over Various Fading
+Channels". 
+`A Power-Enhanced Femto
+Cooperative Scheme (Fe-COPE) in OFDMA Heterogeneous systems using Interference
+Mitigation for 5G Networks". 

@@ -1,0 +1,2 @@
+The influence of short-term memory in subjective image quality assessment
+Aiming at understanding the role of short-term memory in subjective image quality assessment, we report and compare results from two pair-comparison methods: stimuli shown side-by-side versus stimuli shown one after the other. Our results suggest that there is a significant chance that an observer will make different quality assessments in the two setups.

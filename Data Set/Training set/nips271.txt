@@ -1,0 +1,1 @@
+  Gaussian Processes provide prior models spatial data,  smooth. physical situations discontinuities  bounding surfaces, fronts near-surface wind fields.  describe modelling method constrained discontinuity  demonstrate infer model parameters wind fields  MCMC sampling. 

@@ -1,0 +1,13 @@
+An optimized magnetostatic field solver on GPU using open computing language. Concurrency and Computation: Practice and Experience 29(5) (2017)
+	Context-Aware Mobile Cloud Computing and Its Challenges. IEEE Cloud Computing 2(3): 42-49 (2015)
+	MobiByte: An Application Development Model for Mobile Cloud Computing. J. Grid Comput. 13(4): 605-628 (2015)
+	A Cloud-Manager-Based Re-Encryption Scheme for Mobile Users in Cloud Environment: a Hybrid Approach. J. Grid Comput.
+	Co-FAIS: Cooperative fuzzy artificial immune system for detecting intrusion in wireless sensor networks. J. Network and Computer Applications 42: 102-117 (2014)
+	Incremental proxy re-encryption scheme for mobile cloud computing environment.  68(2): 624-651 (2014)
+	Pirax: framework for application piracy control in mobile cloud environment.  68(2): 753-776 (2014)
+	BSS: block-based sharing scheme for secure data storage services in mobile cloud environment.  70(2): 946-976 (2014)
+	A Novel Application Licensing Framework for Mobile Cloud Environment. CoRR abs/1401.0034 (2014)
+	Towards secure mobile cloud computing: A survey. Future Generation Comp. Syst. 29(5): 1278-1299 (2013)
+	Enhanced dynamic credential generation scheme for protection of user identity in mobile-cloud computing.  66(3): 1687-1706 (2013)
+	Framework for Ubiquitous Social Networks. CoRR abs/1307.2953 (2013)
+	An intelligent approach of sniffer detection. Int. Arab J. Inf. Technol. 9(1): 9-15 (2012)

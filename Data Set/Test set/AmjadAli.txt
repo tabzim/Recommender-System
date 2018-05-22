@@ -1,0 +1,18 @@
+VacSol: a high throughput in silico pipeline to predict potential therapeutic targets in prokaryotic pathogens using subtractive reverse vaccinology. BMC Bioinformatics 18(1): 106:1-106:7 (2017)
+Structural characterization of ANGPTL8 (betatrophin) with its interacting partner lipoprotein lipase. Computational Biology and Chemistry 61: 210-220 (2016)
+Sufficient Sample Size and Power in Multilevel Ordinal Logistic Regression Models. Comp. Math. Methods in Medicine 2016: 7329158:1-7329158:8 (2016)
+Merge-and-forward: a cooperative multimedia transmissions protocol using RaptorQ codes. IET Communications 10(15): 1884-1895 (2016)
+Channel Allocation Based on Content Characteristics for Video Transmission in Time-Domain-Based Multichannel Cognitive Radio Networks. Mobile Information Systems 2015: 934715:1-934715:7 (2015)
+	PAD-MAC: Primary User Activity-Aware Distributed MAC for Multi-Channel Cognitive Radio Networks. Sensors 15(4): 7658-7690 (2015)
+	Minutiae Based Automatic Fingerprint Recognition: Machine Learning Approaches. CIT/IUCC/DASC/PICom 2015: 1148-1153
+Mapping the heterogeneity of natural and semi-natural landscapes. Int. J. Applied Earth Observation and Geoinformation 26: 176-183 (2014)
+Structural evaluation of BTK and PKCδ mediated phosphorylation of MAL at positions Tyr86 and Tyr106. Computational Biology and Chemistry 51: 22-35 (2014)
+Insilico study of anti-carcinogenic lysyl oxidase-like 2 inhibitors. Computational Biology and Chemistry 51: 71-82 (2014)
+On the modelling and analysis of the regulatory network of dengue virus pathogenesis and clearance. Computational Biology and Chemistry 53: 277-291 (2014)
+Cognitive Radio-Based Vehicular Ad Hoc and Sensor Networks. IJDSN 10 (2014)
+A Survey of MAC Protocols Design Strategies and Techniques in Wireless Ad Hoc Networks. JCM 9(1): 30-38 (2014)
+Asynchronous Session Reservation Multi-Channel MAC for Ad Hoc Networks. JNW 9(2): 259-268 (2014)
+Multiple color space channel fusion for skin detection. Multimedia Tools Appl. 72(2): 1709-1730 (2014)
+Resource Optimization Scheme for Multimedia-Enabled Wireless Mesh Networks. Sensors 14(8): 14500-14525 (2014)
+Compositional Real-Time Scheduling of Mixed-Criticality Real-Time Systems. DASC 2014: 464-469
+Qualitative modeling and analysis of the indoleamine 2, 3-dioxygenase regulatory network in homeostasis and disease. FSKD 2014: 508-512

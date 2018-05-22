@@ -1,0 +1,1 @@
+ article study effects introducing structure  input distribution data learnt simple perceptron.  determine learning curves framework Statis-  tical Mechanics. Stepwise generalization occurs function  number examples distribution patterns highly  anisotropic. extremely simple, model cap-  ture relevant features class Support Vector Machines  recently shown present behavior. 

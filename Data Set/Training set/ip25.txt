@@ -1,0 +1,3 @@
+Preserving local spatial information in image similarity using tensor aggregation of local features
+In this paper, we propose an aggregation scheme of local descriptors that preserves local spatial information. Our method is based on the binary product of similarities of nearby matching pairs of descriptors. The similarities are linearized using a tensor framework. We show our approach can be used with any local descriptors, handcrafted like SIFT, or learned like the outputs of convolutional layers in deep neural networks. We perform experiments on the Holidays dataset that show the soundness of the approach.
+David Picard

@@ -1,0 +1,3 @@
+ Implementation and Evaluation of AREA-MAC Protocol on the DES-Testbed Platform. Wireless Personal Communications 
+ Secure Coverage Tree Construction Scheme for Wireless Sensor Networks. Wireless Personal Communications 
+ An Analysis of Privacy Preserving Data Aggregation Protocols for WSNs

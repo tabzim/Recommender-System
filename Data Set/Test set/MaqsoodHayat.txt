@@ -1,0 +1,27 @@
+Intelligent computational model for classification of sub-Golgi protein using oversampling and fisher feature selection methods
+Unb-DPC: Identify mycobacterial membrane protein types by incorporating un-biased dipeptide composition into Chou's general PseAAC
+Artificial Intelligence Inspired Intrusion Detection System
+Iris recognition Using Fast Walsh Hadamard Transform Based feature Space
+Machine learning approaches for discrimination of Extracellular Matrix proteins using hybrid feature space
+Identification of DNA binding proteins using evolutionary profiles position specific scoring matrix
+Prediction of protein submitochondrial locations by incorporating dipeptide composition into Chou’s general pseudo amino acid composition
+“iSS-Hyb-mRMR”: Identification of splicing sites using hybrid space of pseudo trinucleotide and pseudo tetranucleotide composition
+Identification of Outer Membrane Proteins Utilizing K-Nearest Neighbor
+Gene Expression Profile classification and Meaningful Discovery using Non-Negative Matrix Factorization
+Facial Detection Using Local Binary Pattern Based Histogram in Conjunction with Random Forest
+iNuc-STNC: a sequence-based predictor for identification of nucleosome positioning in genomes by extending the concept of SAAC and Chou's PseAAC
+Identification of Heat Shock Protein families and J-protein types by incorporating Dipeptide Composition into Chou's general PseAAC
+Classification of membrane protein types using Voting Feature Interval in combination with Chou׳ s Pseudo Amino Acid Composition
+Face Recognition Using Hybrid Feature Space in Conjunction with Support Vector Machine
+Discrimination of acidic and alkaline enzyme using Chou’s pseudo amino acid composition in conjunction with probabilistic neural network model
+iRSpot‑GAEnsC: identifing recombination spots via ensemble classifier and extending the concept of Chou’s PseAAC to formulate DNA samples
+iTIS-PseKNC: Identification of Translation Initiation site in human genes using pseudo k-tuple Nucleotides Composition
+PSOFuzzySVM-TMH: identification of transmembrane helix segments using ensemble feature space by incorporated fuzzy support vector machine
+Iris Detection Using Discrete Sine Transform Based feature vector Integrated with Random Forest
+Discriminating protein structure classes by incorporating pseudo average chemical shift to Chou's general PseAAC and support vector machine
+Identification of fingerprint using discrete wavelet transform in conjunction with support vector machine
+Prediction of protein structure classes using hybrid space of multi-profile Bayes and bi-gram probability feature spaces
+Hourly based climate prediction using data mining techniques by comprising entity demean algorithm
+Prediction of Membrane Protein Types Using Pseudo-Amino Acid Composition and Ensemble Classification
+WRF-TMH: predicting transmembrane helix by fusing composition index and physicochemical properties of amino acids
+Energy efficient workload balancing algorithm for real-time tasks over multi-core

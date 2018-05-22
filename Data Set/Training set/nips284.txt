@@ -1,0 +1,1 @@
+  COllective INtelligence (COIN) set interacting reinforce-  ment learning (RL) algorithms designed automated fashion  collective behavior optimizes global utility function.  summarize theory COINs, present experiments us-  ing theory design COINs control internet traffic routing.  experiments COINs outperform previously  investigated RL-based, shortest path routing algorithms. 

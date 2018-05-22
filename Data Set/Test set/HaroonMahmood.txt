@@ -1,0 +1,5 @@
+ Energy/Lifetime Cooptimization by Cache Partitioning With Graceful Performance Degradation. 
+ Cache aging reduction with improved performance using dynamically re-sizable cache. 
+ Application-specific memory partitioning for joint energy and lifetime optimization. 
+ Energy-optimal caches with guaranteed lifetime. ISLPED 2012: 
+ Aging-aware caches with graceful degradation of performance. 

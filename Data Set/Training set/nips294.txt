@@ -1,0 +1,1 @@
+  order find optimal control continuous state-space  reinforcement learning (RL) problems, approximate  function (VF) class functions called  barycentric interpolators. establish sufficient conditions  RL algorithm converges optimal VF,  approximate models dynamics reinforce-  ment functions. 
