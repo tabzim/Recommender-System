@@ -33,71 +33,71 @@ p_stemmer = PorterStemmer()
 
 doc_set = []
 for i in range(1, 101):
-    # file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
+   
     file_object = open(
-        "C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set\\ip" + str(i) + ".txt", "r")
+        "C:\\Training set\\ip" + str(i) + ".txt", "r")
     doc_a = file_object.read()
     doc_set.append(doc_a)
 
 for i in range(1, 112):
-    # file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
+   
     file_object = open(
-        "C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set\\Networks" + str(i) + ".txt",
+        "C:\\Training set\\Networks" + str(i) + ".txt",
         "r")
     doc_a = file_object.read()
     doc_set.append(doc_a)
 
 for i in range(1, 302):
-    # file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
+   
     file_object = open(
-        "C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set\\nips" + str(i) + ".txt",
+        "C:\\Training set\\nips" + str(i) + ".txt",
         "r")
     doc_a = file_object.read()
     doc_set.append(doc_a)
 
 for i in range(1, 71):# use 1-71
-    # file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
+   
     file_object = open(
-        "C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set\\KDD" + str(i) + ".txt", "r")
+        "C:\\Training set\\KDD" + str(i) + ".txt", "r")
     doc_a = file_object.read()
     doc_set.append(doc_a)
  #for test set   
 for i in range(100, 130):
-    # file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
+    
     file_object = open(
-        "C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set\\KDD" + str(i) + ".txt", "r")
+        "C:\\Training set\\KDD" + str(i) + ".txt", "r")
     doc_a = file_object.read()
     doc_set.append(doc_a)
 
 ## Cross Validation Set
 #for i in range(71, 101):
-#    # file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
+#    
 #    file_object = open(
-#        "C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Cross Validation set\\ip" + str(
+#        "C:\\Cross Validation set\\ip" + str(
 #            i) + ".txt", "r")
 #    doc_a = file_object.read()
 #    doc_set.append(doc_a)
 #
 #for i in range(71, 112):
-#    # file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
+#    
 #    file_object = open(
-#        "C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Cross Validation set\\Networks" + str(
+#        "C:\\Cross Validation set\\Networks" + str(
 #            i) + ".txt", "r")
 #    doc_a = file_object.read()
 #    doc_set.append(doc_a)
 #
 #for i in range(211, 302):
-#    # file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
+#    
 #    file_object = open(
-#        "C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Cross Validation set\\nips" + str(
+#        "C:\\Cross Validation set\\nips" + str(
 #            i) + ".txt", "r")
 #    doc_a = file_object.read()
 #    doc_set.append(doc_a)
 #
 #for i in range(100, 130):
-#    # file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
+#    
 #    file_object = open(
-#        "C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Cross Validation set\\kdd" + str(
+#        "C:\\Cross Validation set\\kdd" + str(
 #            i) + ".txt", "r")
 #    doc_a = file_object.read()
 #    doc_set.append(doc_a)
@@ -133,7 +133,7 @@ corpus = [dictionary.doc2bow(text) for text in texts]
 
 import os, re
 
-data_dir = 'C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set Authors'
+data_dir = 'C:\\Training set Authors'
 
 # Get all document texts and their corresponding IDs.
 docs = []
@@ -175,7 +175,7 @@ for filen in files:
 #############################################################
 #############Cross Validation set authors
 #
-#data_dircv = 'C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Cross Validation set Authors'
+#data_dircv = 'C:\\Cross Validation set Authors'
 #
 ## Get all document texts and their corresponding IDs.
 #docscv = []
@@ -220,7 +220,7 @@ for filen in files:
 #
 ###########Test Set##############################
 # Folder containing all Test papers
-data_dirtest = 'C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Test set'  # Set this path to the data on your machine.
+data_dirtest = 'C:\\Test set'  # Set this path to the data on your machine.
 
 # Get all document texts and their corresponding IDs.
 docstest = []
@@ -292,7 +292,7 @@ corpus2 = [dictionarytest.doc2bow(t) for t in textstest]
 #Creating Author document dictionary
 import os, re
 
-data_dir1test = 'C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Test set'
+data_dir1test = 'C:\\Test set'
 
 
 
@@ -436,7 +436,7 @@ print(2**(-ll))
 #########################################################################################
 
 
-atmodel.save('C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\model.atmodel')
+
 ###################################################################################################################
 ##creating graph and creating topic nodes including words as their properties
 #from py2neo import Graph, Node,Relationship
@@ -530,7 +530,7 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 #       print(aname2, simskl)
 
 
-#filehl=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\hellingertayyaba.txt", "a+")
+#filehl=open("C:\\hellingertayyaba.txt", "a+")
 ##for author in atmodel.id2author.values():
 #print("Main Author:________________________")
 #print('TayyabaAzim')
@@ -552,7 +552,7 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 #
 #
 ##KL Divergence
-#filehl1=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\kldivergencetayyaba.txt", "a+")
+#filehl1=open("C:\\kldivergencetayyaba.txt", "a+")
 ##for author in atmodel.id2author.values():
 #print("Main Author:________________________")
 #print('TayyabaAzim')
@@ -575,7 +575,7 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 #
 #########################################################################################################
 ############FurqanAziz
-#filehl2=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\hellingerfurqan.txt", "a+")
+#filehl2=open("C:\\hellingerfurqan.txt", "a+")
 ##for author in atmodel.id2author.values():
 #print("Main Author:________________________")
 #print('FurqanAziz')
@@ -597,7 +597,7 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 #
 #
 ##KL Divergence
-#filehl3=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\kldivergencefurqan.txt", "a+")
+#filehl3=open("C:\\kldivergencefurqan.txt", "a+")
 ##for author in atmodel.id2author.values():
 #print("Main Author:________________________")
 #print('FurqanAziz')
@@ -622,7 +622,7 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 #
 #########################################################################################################
 ############ZuhaibAshfaqKhan
-#filehl22=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\hellingerZuhaibAshfaqKhan.txt", "a+")
+#filehl22=open("C:\\hellingerZuhaibAshfaqKhan.txt", "a+")
 ##for author in atmodel.id2author.values():
 #print("Main Author:________________________")
 #print('ZuhaibAshfaqKhan')
@@ -644,7 +644,7 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 #
 #
 ##KL Divergence
-#filehl23=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\kldivergenceZuhaibAshfaqKhan.txt", "a+")
+#filehl23=open("C:\\kldivergenceZuhaibAshfaqKhan.txt", "a+")
 ##for author in atmodel.id2author.values():
 #print("Main Author:________________________")
 #print('ZuhaibAshfaqKhan')
@@ -670,7 +670,7 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 #
 #########################################################################################################
 ############ShariqHussain
-#filehl223=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\hellingerShariqHussain.txt", "a+")
+#filehl223=open("C:\\hellingerShariqHussain.txt", "a+")
 ##for author in atmodel.id2author.values():
 #print("Main Author:________________________")
 #print('ShariqHussain')
@@ -692,7 +692,7 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 #
 #
 ##KL Divergence
-#filehl233=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\kldivergenceShariqHussain.txt", "a+")
+#filehl233=open("C:\\kldivergenceShariqHussain.txt", "a+")
 ##for author in atmodel.id2author.values():
 #print("Main Author:________________________")
 #print('ShariqHussain')
@@ -719,7 +719,7 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 #
 #########################################################################################################
 ############AbdulNasirKhan
-#filehl2233=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\hellingerAbdulNasirKhan.txt", "a+")
+#filehl2233=open("C:\\hellingerAbdulNasirKhan.txt", "a+")
 ##for author in atmodel.id2author.values():
 #print("Main Author:________________________")
 #print('AbdulNasirKhan')
@@ -741,7 +741,7 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 #
 #
 ##KL Divergence
-#filehl2333=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\kldivergenceAbdulNasirKhan.txt", "a+")
+#filehl2333=open("C:\\kldivergenceAbdulNasirKhan.txt", "a+")
 ##for author in atmodel.id2author.values():
 #print("Main Author:________________________")
 #print('AbdulNasirKhan')
@@ -771,8 +771,8 @@ from gensim.matutils import hellinger,kullback_leibler,sparse2full
 
 
 
-#filehl=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\hellingertayyaba.txt", "a+")
-#filehl=open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\Results icdm\\at alpha beta\\KLDivergencetayyaba.txt", "a+")
+#filehl=open("C:\\hellingertayyaba.txt", "a+")
+#filehl=open("C:\\KLDivergencetayyaba.txt", "a+")
 
 
 #for f in filestest:
