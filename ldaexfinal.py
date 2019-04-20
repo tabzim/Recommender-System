@@ -34,60 +34,60 @@ p_stemmer = PorterStemmer()
 
 doc_set=[]
 for i in range(1,101):
-    #file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
-    file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set\\ip" + str(i) + ".txt", "r")
+    
+    file_object = open("C:\\Training set\\ip" + str(i) + ".txt", "r")
     doc_a = file_object.read()
     doc_set.append(doc_a)
 
 for i in range(1,112):
-    #file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
-    file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set\\Networks" + str(i) + ".txt", "r")
+   
+    file_object = open("C:\\Training set\\Networks" + str(i) + ".txt", "r")
     doc_a = file_object.read()
     doc_set.append(doc_a)
 
 
 for i in range(1,302):
-    #file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
-    file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set\\nips" + str(i) + ".txt", "r")
+    
+    file_object = open("C:\\Training set\\nips" + str(i) + ".txt", "r")
     doc_a = file_object.read()
     doc_set.append(doc_a)
 
 for i in range(1,71):
-    #file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
-    file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set\\KDD" + str(i) + ".txt", "r")
+    
+    file_object = open("C:\\Training set\\KDD" + str(i) + ".txt", "r")
     doc_a = file_object.read()
     doc_set.append(doc_a)
 
 for i in range(100,130):
-    #file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
-    file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Training set\\KDD" + str(i) + ".txt", "r")
+    
+    file_object = open("C:\\Training set\\KDD" + str(i) + ".txt", "r")
     doc_a = file_object.read()
     doc_set.append(doc_a)
     
 
 ##Cross Validation Set
 #for i in range(71,101):
-#    #file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
-#    file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Cross Validation set\\ip" + str(i) + ".txt", "r")
+#    
+#    file_object = open("C:\\Cross Validation set\\ip" + str(i) + ".txt", "r")
 #    doc_a = file_object.read()
 #    doc_set.append(doc_a)
 #
 #for i in range(71,112):
-#    #file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
-#    file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Cross Validation set\\Networks" + str(i) + ".txt", "r")
+#    
+#    file_object = open("C:\\Cross Validation set\\Networks" + str(i) + ".txt", "r")
 #    doc_a = file_object.read()
 #    doc_set.append(doc_a)
 #
 #
 #for i in range(211,302):
-#    #file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
-#    file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Cross Validation set\\nips" + str(i) + ".txt", "r")
+#    
+#    file_object = open("C:\\Cross Validation set\\nips" + str(i) + ".txt", "r")
 #    doc_a = file_object.read()
 #    doc_set.append(doc_a)
 #
 #for i in range(100,130):
-#    #file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\data\\Experiment5dataset\\DatasetPapers\\Networks"+str(i)+".txt","r")
-#    file_object = open("C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Cross Validation set\\kdd" + str(i) + ".txt", "r")
+#    
+#    file_object = open("C:\\Cross Validation set\\kdd" + str(i) + ".txt", "r")
 #    doc_a = file_object.read()
 #    doc_set.append(doc_a)
 
@@ -95,7 +95,7 @@ for i in range(100,130):
 #Test set
 import os,re
 
-data_dir = 'C:\\Users\\humasamin\\Documents\\Huma Data\\Research\\ICDM data set\\Test set'
+data_dir = 'C:\\Test set'
 files = os.listdir(data_dir)
 for filen in files:
     
